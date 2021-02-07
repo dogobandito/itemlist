@@ -4,10 +4,10 @@ favicon: assets/img/favicon.png
 description: >-
   An expanded item list for TwitchToolkit that supports most ToolkitUtils' shop.
 
-baseurl: '/itemlist' # the subpath of your site, e.g. /blog
+baseurl: '/EvilList' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ''
-github_username: 'sirrandoo'
+github_username: 'dogobandito'
 
 # Item list settings
 store:
