@@ -19645,6 +19645,33 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
+  "Infusion_Infuser_Common": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 1,
+    "Weight": 1.0
+  },
+  "Infusion_Infuser_Uncommon": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 1,
+    "Weight": 1.0
+  },
+   "Infusion_Infuser_Legendary": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 1,
+    "Weight": 1.0
+  },
   "Infusion_Infuser_Rare": {
     "HasQuantityLimit": false,
     "IsMelee": false,
