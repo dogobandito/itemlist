@@ -6280,17 +6280,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "plumbingValve": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Dubs Bad Hygiene",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "PegLeg": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -8006,48 +7995,15 @@
     "Mod": "Infusion 2",
     "QuantityLimit": -1,
     "Weight": 1.0
-	},
-  "Infusion_InfuserCommon": {
+  },
+  "plumbingValve": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Infusion 2",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-	},
-  "Infusion_InfuserUnCommon": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Infusion 2",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-	},
-  "Infusion_InfuserLegendary": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Infusion 2",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-	},
-  "Infusion_InfuserRare": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Infusion 2",
+    "Mod": "Dubs Bad Hygiene",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -19687,6 +19643,15 @@
     "KarmaType": "Neutral",
     "Mod": "RimWorld",
     "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Infusion_Infuser_Rare": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "QuantityLimit": 1,
     "Weight": 1.0
   }
 }
