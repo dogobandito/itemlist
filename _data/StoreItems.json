@@ -2287,12 +2287,6 @@
       "price": -10
     },
     {
-      "abr": "commoninfuser",
-      "category": "Infusers",
-      "defname": "Infusion_Infuser_Common",
-      "price": 1500
-    },
-    {
       "abr": "component",
       "category": "Manufactured",
       "defname": "ComponentIndustrial",
@@ -5869,12 +5863,6 @@
       "price": -10
     },
     {
-      "abr": "legendaryinfuser",
-      "category": "Infusers",
-      "defname": "Infusion_Infuser_Legendary",
-      "price": 12000
-    },
-    {
       "abr": "lesserbloodrune",
       "category": "Artifacts",
       "defname": "ReviaLesserBloodRune",
@@ -8251,12 +8239,6 @@
       "price": -10
     },
     {
-      "abr": "rareinfuser",
-      "category": "Infusers",
-      "defname": "Infusion_Infuser_Rare",
-      "price": 6000
-    },
-    {
       "abr": "rat",
       "category": "Animal",
       "defname": "Rat",
@@ -10393,12 +10375,6 @@
       "price": -10
     },
     {
-      "abr": "uncommoninfuser",
-      "category": "Infusers",
-      "defname": "Infusion_Infuser_Uncommon",
-      "price": 3000
-    },
-    {
       "abr": "uncookedfinesoup",
       "category": "Uncooked soups",
       "defname": "VCE_UncookedSoupFine",
@@ -10936,25 +10912,49 @@
       "abr": "quadteslacannonimplant",
       "category": "Animal Body Part",
       "defname": "AA_QuadTeslaCannonImplant",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "rangedspinneretimplant",
       "category": "Animal Body Part",
       "defname": "AA_RangedSpinneretImplant",
-      "price": -10
+      "price": 1333
     },
     {
       "abr": "simpleprostheticbeak",
       "category": "Animal Body Part",
       "defname": "AA_ProstheticBeak",
-      "price": -10
+      "price": 218
     },
     {
       "abr": "venomousspitterimplant",
       "category": "Animal Body Part",
       "defname": "AA_VenomousSpitterImplant",
-      "price": -10
+      "price": 1333
+    },
+    {
+      "abr": "commoninfuser",
+      "category": "Infusers",
+      "defname": "Infusion_Infuser_Common",
+      "price": 333
+    },
+    {
+      "abr": "uncommoninfuser",
+      "category": "Infusers",
+      "defname": "Infusion_Infuser_Uncommon",
+      "price": 833
+    },
+    {
+      "abr": "rareinfuser",
+      "category": "Infusers",
+      "defname": "Infusion_Infuser_Rare",
+      "price": 1833
+    },
+    {
+      "abr": "legendaryinfuser",
+      "category": "Infusers",
+      "defname": "Infusion_Infuser_Legendary",
+      "price": 3000
     }
   ],
   "total": 1826
