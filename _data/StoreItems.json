@@ -316,7 +316,7 @@
       "abr": "animalbed",
       "category": "Furniture",
       "defname": "AnimalBed",
-      "price": -10
+      "price": 150
     },
     {
       "abr": "animalclothes",
@@ -340,7 +340,7 @@
       "abr": "animalplatearmor",
       "category": "[Animal Apparel]",
       "defname": "Apparel_AnimalPlateArmor",
-      "price": -10
+      "price": 800
     },
     {
       "abr": "animalpowerarmor",
@@ -364,7 +364,7 @@
       "abr": "animalsimplehelmet",
       "category": "[Animal Apparel]",
       "defname": "Apparel_AnimalPlateHelmet",
-      "price": -10
+      "price": 150
     },
     {
       "abr": "animalsleepingbox",
@@ -778,7 +778,7 @@
       "abr": "artillery",
       "category": "Security",
       "defname": "VFES_Turret_Artillery",
-      "price": -10
+      "price": 2000
     },
     {
       "abr": "asphaltbucket",
@@ -820,7 +820,7 @@
       "abr": "autocleaner",
       "category": "Items",
       "defname": "AutocleanerItem",
-      "price": -10
+      "price": 550
     },
     {
       "abr": "autopistol",
@@ -910,7 +910,7 @@
       "abr": "basicholodeck",
       "category": "Recreation",
       "defname": "Holodeck_Basic",
-      "price": -10
+      "price": 1500
     },
     {
       "abr": "basicwear",
@@ -1024,7 +1024,7 @@
       "abr": "bed",
       "category": "Furniture",
       "defname": "Bed",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "bedbug",
@@ -2038,7 +2038,7 @@
       "abr": "chemfuel",
       "category": "Manufactured",
       "defname": "Chemfuel",
-      "price": -10
+      "price": 5
     },
     {
       "abr": "chemfuelbarrel",
@@ -2074,7 +2074,7 @@
       "abr": "chicken",
       "category": "Animal",
       "defname": "Chicken",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "chickenegg(fert.)",
@@ -2086,7 +2086,7 @@
       "abr": "chickenegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "EggChickenUnfertilized",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "chickenmeat",
@@ -2116,7 +2116,7 @@
       "abr": "chitin",
       "category": "Raw resources",
       "defname": "VFEI_Chitin",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "chocolate",
@@ -4690,7 +4690,7 @@
       "abr": "husky",
       "category": "Animal",
       "defname": "Husky",
-      "price": -10
+      "price": 666
     },
     {
       "abr": "huskymeat",
@@ -4768,7 +4768,7 @@
       "abr": "iedtrap",
       "category": "Security",
       "defname": "TrapIED_HighExplosive",
-      "price": -10
+      "price": 200
     },
     {
       "abr": "iguana",
@@ -4936,7 +4936,7 @@
       "abr": "industrialammo",
       "category": "Ammo",
       "defname": "yy_ammo_industrial",
-      "price": -10
+      "price": 10
     },
     {
       "abr": "industrialexplosiveammo",
@@ -4948,7 +4948,7 @@
       "abr": "industrialradio",
       "category": "Recreation",
       "defname": "Radio_Industrial",
-      "price": -10
+      "price": 1000
     },
     {
       "abr": "industrialspecialammo",
@@ -4984,7 +4984,7 @@
       "abr": "infinitechemreactor",
       "category": "Special",
       "defname": "InfiniteChemreactor",
-      "price": -10
+      "price": 7000
     },
     {
       "abr": "insectcheese",
@@ -5224,7 +5224,7 @@
       "abr": "kibble",
       "category": "Foods",
       "defname": "Kibble",
-      "price": -10
+      "price": 1
     },
     {
       "abr": "kidney",
@@ -5824,7 +5824,7 @@
       "abr": "lavishmeal",
       "category": "Meals",
       "defname": "MealLavish",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "lavishsoup",
@@ -7108,7 +7108,7 @@
       "abr": "pegleg",
       "category": "Simple parts",
       "defname": "PegLeg",
-      "price": -10
+      "price": 150
     },
     {
       "abr": "peltcoat",
@@ -9070,7 +9070,7 @@
       "abr": "simplemeal",
       "category": "Meals",
       "defname": "MealSimple",
-      "price": -10
+      "price": 50
     },
     {
       "abr": "simplemeal(vegetables)",
@@ -9184,73 +9184,73 @@
       "abr": "skilltrainer(animals)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Animals",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(artistic)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Artistic",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(construction)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Construction",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(cooking)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Cooking",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(crafting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Crafting",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(intellectual)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Intellectual",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(medical)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Medicine",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(melee)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Melee",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(mining)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Mining",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(plants)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Plants",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(shooting)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Shooting",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skilltrainer(social)",
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Social",
-      "price": -10
+      "price": 1250
     },
     {
       "abr": "skip",
@@ -9466,7 +9466,7 @@
       "abr": "spacerammo",
       "category": "Ammo",
       "defname": "yy_ammo_spacer",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "spacerexplosiveammo",
@@ -9520,7 +9520,7 @@
       "abr": "spiketrap",
       "category": "Security",
       "defname": "TrapSpike",
-      "price": -10
+      "price": 250
     },
     {
       "abr": "spinedgow",
@@ -9910,7 +9910,7 @@
       "abr": "tazingturret",
       "category": "Security",
       "defname": "Turret_TazingTurret",
-      "price": -10
+      "price": 2500
     },
     {
       "abr": "techprint(artificialmetabolism)",
@@ -9988,7 +9988,7 @@
       "abr": "techprofsubpersonacore",
       "category": "Items",
       "defname": "TechprofSubpersonaCore",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "telescope",
@@ -10204,7 +10204,7 @@
       "abr": "toughskingland",
       "category": "Bionic",
       "defname": "ToughskinGland",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "toxicgrenades",
@@ -10450,7 +10450,7 @@
       "abr": "vanometricpowercell",
       "category": "Special",
       "defname": "VanometricPowerCell",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "vanoroot",
@@ -10804,7 +10804,7 @@
       "abr": "woodenfoot",
       "category": "Simple parts",
       "defname": "WoodenFoot",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "woolycow",
