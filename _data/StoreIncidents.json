@@ -252,12 +252,12 @@
 	},
 	{
 		"abr": "torytalkervote",
-		"price": 1100,
+		"price": 700,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "hodlbotvote",
-		"price": 1000,
+		"price": 700,
 		"karmatype": "Neutral"
 	},
 	{
@@ -287,7 +287,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
