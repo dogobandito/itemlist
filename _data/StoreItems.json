@@ -5692,7 +5692,7 @@
       "abr": "kyulen",
       "category": "Animal",
       "defname": "Ninetailfoxwt",
-      "price": 15000
+      "price": 10000
     },
     {
       "abr": "kyulenbead",
@@ -8428,7 +8428,7 @@
       "abr": "resurrectormechserum",
       "category": "Items",
       "defname": "MechSerumResurrector",
-      "price": 10000
+      "price": 3333
     },
     {
       "abr": "revia",
@@ -10864,7 +10864,7 @@
       "abr": "zeushammer",
       "category": "Melee weapons",
       "defname": "MeleeWeapon_Zeushammer",
-      "price": -10
+      "price": 6000
     },
     {
       "abr": "달비단",
