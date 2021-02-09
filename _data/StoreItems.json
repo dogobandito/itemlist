@@ -820,7 +820,7 @@
       "abr": "autocleaner",
       "category": "Items",
       "defname": "AutocleanerItem",
-      "price": 550
+      "price": 600
     },
     {
       "abr": "autopistol",
@@ -2074,7 +2074,7 @@
       "abr": "chicken",
       "category": "Animal",
       "defname": "Chicken",
-      "price": 100
+      "price": -10
     },
     {
       "abr": "chickenegg(fert.)",
@@ -2830,13 +2830,13 @@
       "abr": "dragonianmilk",
       "category": "Animal products",
       "defname": "DragonianMilk",
-      "price": 14
+      "price": 10
     },
     {
       "abr": "dragonianwool",
       "category": "Textiles",
       "defname": "WoolDragonian",
-      "price": 25
+      "price": 10
     },
     {
       "abr": "drainer",
@@ -4690,7 +4690,7 @@
       "abr": "husky",
       "category": "Animal",
       "defname": "Husky",
-      "price": 666
+      "price": -10
     },
     {
       "abr": "huskymeat",
@@ -4750,7 +4750,7 @@
       "abr": "iedincendiarytrap",
       "category": "Security",
       "defname": "TrapIED_Incendiary",
-      "price": -10
+      "price": 200
     },
     {
       "abr": "iedsmoketrap",
@@ -4768,7 +4768,7 @@
       "abr": "iedtrap",
       "category": "Security",
       "defname": "TrapIED_HighExplosive",
-      "price": 200
+      "price": -10
     },
     {
       "abr": "iguana",
@@ -5224,7 +5224,7 @@
       "abr": "kibble",
       "category": "Foods",
       "defname": "Kibble",
-      "price": 1
+      "price": 2
     },
     {
       "abr": "kidney",
@@ -5692,7 +5692,7 @@
       "abr": "kyulen",
       "category": "Animal",
       "defname": "Ninetailfoxwt",
-      "price": 10000
+      "price": -10
     },
     {
       "abr": "kyulenbead",
@@ -9418,7 +9418,7 @@
       "abr": "smokeleafjoint",
       "category": "Drugs",
       "defname": "SmokeleafJoint",
-      "price": 42
+      "price": 21
     },
     {
       "abr": "smokeleafleaves",
@@ -10912,50 +10912,1130 @@
       "abr": "quadteslacannonimplant",
       "category": "Animal Body Part",
       "defname": "AA_QuadTeslaCannonImplant",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "rangedspinneretimplant",
       "category": "Animal Body Part",
       "defname": "AA_RangedSpinneretImplant",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "simpleprostheticbeak",
       "category": "Animal Body Part",
       "defname": "AA_ProstheticBeak",
-      "price": 218
+      "price": -10
     },
     {
       "abr": "venomousspitterimplant",
       "category": "Animal Body Part",
       "defname": "AA_VenomousSpitterImplant",
-      "price": 1333
+      "price": -10
+    },
+    {
+      "abr": "abyssalpearl",
+      "category": "Raw resources",
+      "defname": "DD_AbyssalPearl",
+      "price": -10
+    },
+    {
+      "abr": "aerogel",
+      "category": "Manufactured",
+      "defname": "AvaliAerogel",
+      "price": -10
+    },
+    {
+      "abr": "ancientbanner",
+      "category": "Furniture",
+      "defname": "RWY_Banner_A",
+      "price": -10
+    },
+    {
+      "abr": "ancientbanner",
+      "category": "Furniture",
+      "defname": "RWY_Banner_B",
+      "price": -10
+    },
+    {
+      "abr": "ancientbanner",
+      "category": "Furniture",
+      "defname": "RWY_Banner_C",
+      "price": -10
+    },
+    {
+      "abr": "ancientbanner",
+      "category": "Furniture",
+      "defname": "RWY_Banner_D",
+      "price": -10
+    },
+    {
+      "abr": "ancientbrazier",
+      "category": "Furniture",
+      "defname": "RWY_AncientBrazier",
+      "price": -10
+    },
+    {
+      "abr": "ancienttable",
+      "category": "Furniture",
+      "defname": "RWY_DD_Table",
+      "price": -10
+    },
+    {
+      "abr": "ancienttable",
+      "category": "Furniture",
+      "defname": "RWY_DD_BigTable",
+      "price": -10
+    },
+    {
+      "abr": "avali",
+      "category": "Animal",
+      "defname": "Avali",
+      "price": -10
+    },
+    {
+      "abr": "avaliguardiancombathelmet",
+      "category": "Headgear",
+      "defname": "Avali_Apparel_GuardianHelmet",
+      "price": -10
+    },
+    {
+      "abr": "avaliguardiancombatsuit",
+      "category": "Avali armor",
+      "defname": "Avali_Apparel_GuardianArmor",
+      "price": -10
+    },
+    {
+      "abr": "avalihellcatcombathelmet",
+      "category": "Headgear",
+      "defname": "Avali_Apparel_HellcatHelmet",
+      "price": -10
+    },
+    {
+      "abr": "avalihellcatcombatsuit",
+      "category": "Avali armor",
+      "defname": "Avali_Apparel_HellcatArmor",
+      "price": -10
+    },
+    {
+      "abr": "avaliaeroponicstubing",
+      "category": "Production",
+      "defname": "AvaliAeroponics",
+      "price": -10
+    },
+    {
+      "abr": "avaliauditoryaugment",
+      "category": "Avali augments",
+      "defname": "AvaliHearingAugment",
+      "price": -10
+    },
+    {
+      "abr": "avali'avalanche'shotgun",
+      "category": "Ranged weapons",
+      "defname": "GunAvaliShotgun",
+      "price": -10
+    },
+    {
+      "abr": "avalibeltedcloak",
+      "category": "Avali apparel",
+      "defname": "Avali_Apparel_BeltedCloak",
+      "price": -10
+    },
+    {
+      "abr": "avali'blizzard'rifle",
+      "category": "Ranged weapons",
+      "defname": "Gun_Avali_AssaultRifle",
+      "price": -10
+    },
+    {
+      "abr": "avalicamo",
+      "category": "Avali apparel",
+      "defname": "Avali_Apparel_Camo",
+      "price": -10
+    },
+    {
+      "abr": "avalicap",
+      "category": "Headgear",
+      "defname": "Avali_Apparel_Cap",
+      "price": -10
+    },
+    {
+      "abr": "avalicarpet(1x1)",
+      "category": "Furniture",
+      "defname": "AvaliCarpet1x1c",
+      "price": -10
+    },
+    {
+      "abr": "avalicarpet(1x4)",
+      "category": "Furniture",
+      "defname": "AvaliCarpet1x4c",
+      "price": -10
+    },
+    {
+      "abr": "avalicarpet(4x2)",
+      "category": "Furniture",
+      "defname": "AvaliCarpet4x2c",
+      "price": -10
+    },
+    {
+      "abr": "avalicellinglamp",
+      "category": "Furniture",
+      "defname": "AvaliCellingLight",
+      "price": -10
+    },
+    {
+      "abr": "avali'cerberus'turret",
+      "category": "Security",
+      "defname": "AvaliTurretSmall",
+      "price": -10
+    },
+    {
+      "abr": "avalicloak",
+      "category": "Avali apparel",
+      "defname": "Avali_Apparel_Cloak",
+      "price": -10
+    },
+    {
+      "abr": "avali'coldsnap'smg",
+      "category": "Ranged weapons",
+      "defname": "GunAvaliSMG",
+      "price": -10
+    },
+    {
+      "abr": "avalicombathelmet",
+      "category": "Headgear",
+      "defname": "Avali_Apparel_CombatHelmet",
+      "price": -10
+    },
+    {
+      "abr": "avalicombatsuit",
+      "category": "Avali armor",
+      "defname": "Avali_Apparel_CombatArmor",
+      "price": -10
+    },
+    {
+      "abr": "avalicooker",
+      "category": "Production",
+      "defname": "AvaliStove",
+      "price": -10
+    },
+    {
+      "abr": "avalicoolingaugment",
+      "category": "Avali augments",
+      "defname": "AvaliCoolAugment",
+      "price": -10
+    },
+    {
+      "abr": "avalicrystalgarden",
+      "category": "Furniture",
+      "defname": "AvaliAerogelLight",
+      "price": -10
+    },
+    {
+      "abr": "avalidagger",
+      "category": "Melee weapons",
+      "defname": "Avali_Dagger",
+      "price": -10
+    },
+    {
+      "abr": "avali'direshard'longsword",
+      "category": "Melee weapons",
+      "defname": "Avali_LongSword",
+      "price": -10
+    },
+    {
+      "abr": "avaliearrings",
+      "category": "Headgear",
+      "defname": "Avali_Apparel_Rings",
+      "price": -10
+    },
+    {
+      "abr": "avaliegg",
+      "category": "Eggs (fert.)",
+      "defname": "AvaliEgg",
+      "price": -10
+    },
+    {
+      "abr": "avalieggomlette",
+      "category": "Avali meals",
+      "defname": "AvaliEggOmlette",
+      "price": -10
+    },
+    {
+      "abr": "avaliexosuit",
+      "category": "Avali armor",
+      "defname": "Avali_Apparel_Exosuit",
+      "price": -10
+    },
+    {
+      "abr": "avali'firedart'rocketlauncher",
+      "category": "Ranged weapons",
+      "defname": "Gun_Avali_Rocket_Launcher",
+      "price": -10
+    },
+    {
+      "abr": "avali'firelance'anti-materialrifle",
+      "category": "Ranged weapons",
+      "defname": "GunAvaliSniper",
+      "price": -10
+    },
+    {
+      "abr": "avalifloorlightpanel",
+      "category": "Furniture",
+      "defname": "AvaliFloorLight",
+      "price": -10
+    },
+    {
+      "abr": "avali'frostbite'pistol",
+      "category": "Ranged weapons",
+      "defname": "GunAvaliPistol",
+      "price": -10
+    },
+    {
+      "abr": "avali'glacier'hammer",
+      "category": "Melee weapons",
+      "defname": "Avali_Hammer",
+      "price": -10
+    },
+    {
+      "abr": "avali'hail'pila",
+      "category": "Melee weapons",
+      "defname": "Avali_Pila",
+      "price": -10
+    },
+    {
+      "abr": "avali'hailstorm'hybridminigun",
+      "category": "Ranged weapons",
+      "defname": "GunAvaliMinigun",
+      "price": -10
+    },
+    {
+      "abr": "avaliheadwraps",
+      "category": "Headgear",
+      "defname": "Avali_Apparel_HeadWraps",
+      "price": -10
+    },
+    {
+      "abr": "avaliheadset",
+      "category": "Headgear",
+      "defname": "Avali_Apparel_Headset",
+      "price": -10
+    },
+    {
+      "abr": "avaliheatingaugment",
+      "category": "Avali augments",
+      "defname": "AvaliHeatAugment",
+      "price": -10
+    },
+    {
+      "abr": "avali'icicle'spear",
+      "category": "Melee weapons",
+      "defname": "Avali_Spear",
+      "price": -10
+    },
+    {
+      "abr": "avalilifesupportaugment",
+      "category": "Avali augments",
+      "defname": "AvaliEnviromentalAugment",
+      "price": -10
+    },
+    {
+      "abr": "avalilifesupportbelt",
+      "category": "Avali apparel",
+      "defname": "Apparel_LifeSupportBeltAvali",
+      "price": -10
+    },
+    {
+      "abr": "avalilightcombathelmet",
+      "category": "Headgear",
+      "defname": "Avali_Apparel_LightCombatHelmet",
+      "price": -10
+    },
+    {
+      "abr": "avalimadnesspreventionaugment",
+      "category": "Avali augments",
+      "defname": "AvaliPackLossAugment",
+      "price": -10
+    },
+    {
+      "abr": "avalimeat",
+      "category": "Meat",
+      "defname": "Meat_Avali",
+      "price": -10
+    },
+    {
+      "abr": "avalinanolathe",
+      "category": "Production",
+      "defname": "AvaliNanolathe",
+      "price": -10
+    },
+    {
+      "abr": "avalinanoloom",
+      "category": "Production",
+      "defname": "AvaliNanoloom",
+      "price": -10
+    },
+    {
+      "abr": "avaliofficechair",
+      "category": "Furniture",
+      "defname": "AvaliChair",
+      "price": -10
+    },
+    {
+      "abr": "avali'ripper'turret",
+      "category": "Security",
+      "defname": "AvaliTurretMedium",
+      "price": -10
+    },
+    {
+      "abr": "avalirocket",
+      "category": "Manufactured",
+      "defname": "AvaliRocket",
+      "price": -10
+    },
+    {
+      "abr": "avaliroundtable(1x1)",
+      "category": "Furniture",
+      "defname": "AvaliTable1x1c",
+      "price": -10
+    },
+    {
+      "abr": "avaliroundtable(2x2)",
+      "category": "Furniture",
+      "defname": "AvaliTable2x2c",
+      "price": -10
+    },
+    {
+      "abr": "avaliroundtable(3x3)",
+      "category": "Furniture",
+      "defname": "AvaliTable3x3c",
+      "price": -10
+    },
+    {
+      "abr": "avaliscoutarmor",
+      "category": "Avali armor",
+      "defname": "Avali_Apparel_ScoutArmor",
+      "price": -10
+    },
+    {
+      "abr": "avaliscout'shud",
+      "category": "Headgear",
+      "defname": "Avali_Apparel_ScoutHUD",
+      "price": -10
+    },
+    {
+      "abr": "avali'shard'shortsword",
+      "category": "Melee weapons",
+      "defname": "Avali_Sword",
+      "price": -10
+    },
+    {
+      "abr": "avalishieldbelt",
+      "category": "Avali armor",
+      "defname": "Apparel_ShieldBeltAvali",
+      "price": -10
+    },
+    {
+      "abr": "avalishirt",
+      "category": "Avali apparel",
+      "defname": "Avali_Apparel_Shirt",
+      "price": -10
+    },
+    {
+      "abr": "avaliskin",
+      "category": "Leathers",
+      "defname": "Leather_Avali",
+      "price": -10
+    },
+    {
+      "abr": "avalisleeves",
+      "category": "Avali apparel",
+      "defname": "Avali_Apparel_Sleeves",
+      "price": -10
+    },
+    {
+      "abr": "avalistandinglamp",
+      "category": "Furniture",
+      "defname": "AvaliStandingLight",
+      "price": -10
+    },
+    {
+      "abr": "avalisurvivalgear",
+      "category": "Avali armor",
+      "defname": "Avali_Apparel_SurvivalGear",
+      "price": -10
+    },
+    {
+      "abr": "avalitable(1x2)",
+      "category": "Furniture",
+      "defname": "AvaliTable1x2c",
+      "price": -10
+    },
+    {
+      "abr": "avalitable(2x4)",
+      "category": "Furniture",
+      "defname": "AvaliTable2x4c",
+      "price": -10
+    },
+    {
+      "abr": "avalitail",
+      "category": "Natural",
+      "defname": "TailAvali",
+      "price": -10
+    },
+    {
+      "abr": "avali'thrasher'turret",
+      "category": "Security",
+      "defname": "AvaliTurretLarge",
+      "price": -10
+    },
+    {
+      "abr": "avalitrenchcoat",
+      "category": "Avali apparel",
+      "defname": "Avali_Apparel_Trenchcoat",
+      "price": -10
+    },
+    {
+      "abr": "avalivisionaugment",
+      "category": "Avali augments",
+      "defname": "AvaliSightAugment",
+      "price": -10
+    },
+    {
+      "abr": "avaliwrap",
+      "category": "Avali apparel",
+      "defname": "Avali_Apparel_Wrap",
+      "price": -10
+    },
+    {
+      "abr": "avalon-styletaco",
+      "category": "Avali meals",
+      "defname": "AvaliTaco",
+      "price": -10
+    },
+    {
+      "abr": "blackdragon",
+      "category": "Animal",
+      "defname": "Black_Dragon",
+      "price": -10
+    },
+    {
+      "abr": "blackdragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggBlackDragonFertilized",
+      "price": -10
+    },
+    {
+      "abr": "bluedragon",
+      "category": "Animal",
+      "defname": "Blue_Dragon",
+      "price": -10
+    },
+    {
+      "abr": "bluedragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggBlueDragonFertilized",
+      "price": -10
+    },
+    {
+      "abr": "bluenebuladragon",
+      "category": "Animal",
+      "defname": "Blue_Nebula_Dragon",
+      "price": -10
+    },
+    {
+      "abr": "bluenebuladragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggBlueNebulaDragonFertilized",
+      "price": -10
+    },
+    {
+      "abr": "brittlestar",
+      "category": "Raw resources",
+      "defname": "DD_BrittleStar",
+      "price": -10
+    },
+    {
+      "abr": "cataclysmlance",
+      "category": "Artifacts",
+      "defname": "VoidMatingHorn",
+      "price": -10
+    },
+    {
+      "abr": "chateauavalon",
+      "category": "Drugs",
+      "defname": "ChateauAvalon",
+      "price": -10
+    },
+    {
+      "abr": "clothavaliear",
+      "category": "Prosthetic",
+      "defname": "ClothAvaliEar",
+      "price": -10
+    },
+    {
+      "abr": "clothavalitail",
+      "category": "Prosthetic",
+      "defname": "ClothAvaliTail",
+      "price": -10
+    },
+    {
+      "abr": "cushion",
+      "category": "Furniture",
+      "defname": "AvaliCushion",
+      "price": -10
+    },
+    {
+      "abr": "cyberneticavaliarm",
+      "category": "Avali",
+      "defname": "CyberneticAvaliArm",
+      "price": -10
+    },
+    {
+      "abr": "cyberneticavalibody",
+      "category": "Avali",
+      "defname": "CyberneticAvaliBody",
+      "price": -10
+    },
+    {
+      "abr": "cyberneticavalihead",
+      "category": "Avali",
+      "defname": "CyberneticAvaliHead",
+      "price": -10
+    },
+    {
+      "abr": "cyberneticavalileg",
+      "category": "Avali",
+      "defname": "CyberneticAvaliLeg",
+      "price": -10
+    },
+    {
+      "abr": "cyberneticavalitail",
+      "category": "Avali",
+      "defname": "CyberneticAvaliTail",
+      "price": -10
+    },
+    {
+      "abr": "destroyerdragon",
+      "category": "Animal",
+      "defname": "Destroyer_Void_Dragon",
+      "price": -10
+    },
+    {
+      "abr": "destroyervoiddragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggDestroyerVoidDragonFertilized",
+      "price": -10
+    },
+    {
+      "abr": "draconicambrosia",
+      "category": "Drugs",
+      "defname": "DraconicAmbrosia",
+      "price": -10
+    },
+    {
+      "abr": "dragonaltar",
+      "category": "Furniture",
+      "defname": "Altar",
+      "price": -10
+    },
+    {
+      "abr": "dragonegg(unfert.)",
+      "category": "Eggs (unfert.)",
+      "defname": "EggDragonUnfertilized",
+      "price": -10
+    },
+    {
+      "abr": "dragonhorn",
+      "category": "Items",
+      "defname": "DragonHorn",
+      "price": -10
+    },
+    {
+      "abr": "dragonleather",
+      "category": "Leathers",
+      "defname": "Dragon_Leather",
+      "price": -10
+    },
+    {
+      "abr": "dragonmeat",
+      "category": "Meat",
+      "defname": "Meat_Red_Dragon",
+      "price": -10
+    },
+    {
+      "abr": "dragonnest",
+      "category": "Furniture",
+      "defname": "DragonNest",
+      "price": -10
+    },
+    {
+      "abr": "dragonpillow",
+      "category": "Furniture",
+      "defname": "DragonPillow",
+      "price": -10
+    },
+    {
+      "abr": "dragonstatuea",
+      "category": "Furniture",
+      "defname": "Dragon_Statue_A",
+      "price": -10
+    },
+    {
+      "abr": "dragonstatueb",
+      "category": "Furniture",
+      "defname": "Dragon_Statue_B",
+      "price": -10
+    },
+    {
+      "abr": "dragonstatuec",
+      "category": "Furniture",
+      "defname": "Dragon_Statue_C",
+      "price": -10
+    },
+    {
+      "abr": "dragonstatued",
+      "category": "Furniture",
+      "defname": "Dragon_Statue_D",
+      "price": -10
+    },
+    {
+      "abr": "dragonstatuee",
+      "category": "Furniture",
+      "defname": "Dragon_Statue_E",
+      "price": -10
+    },
+    {
+      "abr": "dragon'sblood",
+      "category": "Drugs",
+      "defname": "DragonsBlood",
+      "price": -10
+    },
+    {
+      "abr": "eatervoiddragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggEaterVoidDragonFertilized",
+      "price": -10
+    },
+    {
+      "abr": "eliteavalihellcatcombatsuit",
+      "category": "Avali armor",
+      "defname": "Avali_Apparel_HellcatArmorElite",
+      "price": -10
+    },
+    {
+      "abr": "eliteavalihellcatcombathelmet",
+      "category": "Headgear",
+      "defname": "Avali_Apparel_HellcatHelmetElite",
+      "price": -10
+    },
+    {
+      "abr": "eliteavalicombathelmet",
+      "category": "Headgear",
+      "defname": "Avali_Apparel_CombatHelmetElite",
+      "price": -10
+    },
+    {
+      "abr": "eliteavalicombatsuit",
+      "category": "Avali armor",
+      "defname": "Avali_Apparel_CombatArmorElite",
+      "price": -10
+    },
+    {
+      "abr": "golddragon",
+      "category": "Animal",
+      "defname": "Gold_Dragon",
+      "price": -10
+    },
+    {
+      "abr": "golddragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggGoldDragonFertilized",
+      "price": -10
+    },
+    {
+      "abr": "greendragon",
+      "category": "Animal",
+      "defname": "Green_Dragon",
+      "price": -10
+    },
+    {
+      "abr": "greendragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggGreenDragonFertilized",
+      "price": -10
+    },
+    {
+      "abr": "guardiannanitesinjector",
+      "category": "Avali nanites",
+      "defname": "GuardianNanitesInjector",
+      "price": -10
+    },
+    {
+      "abr": "harbingerdragon",
+      "category": "Animal",
+      "defname": "Harbinger_Void_Dragon",
+      "price": -10
+    },
+    {
+      "abr": "harbingervoiddragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggHarbingerVoidDragonFertilized",
+      "price": -10
+    },
+    {
+      "abr": "hologramtelevision",
+      "category": "Furniture",
+      "defname": "AvaliHoloTV",
+      "price": -10
+    },
+    {
+      "abr": "immunitynanitesinjector",
+      "category": "Avali nanites",
+      "defname": "ImmunityNanitesInjector",
+      "price": -10
+    },
+    {
+      "abr": "jadedragon",
+      "category": "Animal",
+      "defname": "Jade_Dragon",
+      "price": -10
+    },
+    {
+      "abr": "jadedragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggJadeDragonFertilized",
+      "price": -10
+    },
+    {
+      "abr": "jjkarvikthos",
+      "category": "Texts",
+      "defname": "PrecursorText2_T",
+      "price": -10
+    },
+    {
+      "abr": "kiricurry",
+      "category": "Avali meals",
+      "defname": "AvaliKiriCurry",
+      "price": -10
+    },
+    {
+      "abr": "kirifruits",
+      "category": "Vegetarian",
+      "defname": "RawKiriFruits",
+      "price": -10
+    },
+    {
+      "abr": "maglevarmchair",
+      "category": "Furniture",
+      "defname": "AvaliArmchair",
+      "price": -10
+    },
+    {
+      "abr": "matinghorn",
+      "category": "Artifacts",
+      "defname": "MatingHorn",
+      "price": -10
+    },
+    {
+      "abr": "nakatibarks",
+      "category": "Plant matter",
+      "defname": "RawNakatiBarks",
+      "price": -10
+    },
+    {
+      "abr": "nanofibre",
+      "category": "Textiles",
+      "defname": "AvaliNanoFibre",
+      "price": -10
+    },
+    {
+      "abr": "nebuladust",
+      "category": "Raw resources",
+      "defname": "DD_NebulaDust",
+      "price": -10
+    },
+    {
+      "abr": "nebulalamp",
+      "category": "Furniture",
+      "defname": "RWY_NebulaLamp",
+      "price": -10
+    },
+    {
+      "abr": "nebulatorch",
+      "category": "Artifacts",
+      "defname": "NebulaMatingHorn",
+      "price": -10
+    },
+    {
+      "abr": "pillow",
+      "category": "Furniture",
+      "defname": "AvaliPillow",
+      "price": -10
+    },
+    {
+      "abr": "piruflour",
+      "category": "Plant matter",
+      "defname": "RawPiruFlour",
+      "price": -10
+    },
+    {
+      "abr": "pirunoodle",
+      "category": "Avali meals",
+      "defname": "AvaliPiruNoodle",
+      "price": -10
+    },
+    {
+      "abr": "plasteelavalitalons",
+      "category": "Prosthetic",
+      "defname": "PlasteelAvaliTalons",
+      "price": -10
+    },
+    {
+      "abr": "psychicaginglance",
+      "category": "Artifacts",
+      "defname": "PubertyLance",
+      "price": -10
+    },
+    {
+      "abr": "purpledragon",
+      "category": "Animal",
+      "defname": "Purple_Dragon",
+      "price": -10
+    },
+    {
+      "abr": "purpledragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggPurpleDragonFertilized",
+      "price": -10
+    },
+    {
+      "abr": "purplenebuladragon",
+      "category": "Animal",
+      "defname": "Purple_Nebula_Dragon",
+      "price": -10
+    },
+    {
+      "abr": "purplenebuladragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggPurpleNebulaDragonFertilized",
+      "price": -10
+    },
+    {
+      "abr": "reddragon",
+      "category": "Animal",
+      "defname": "Red_Dragon",
+      "price": -10
+    },
+    {
+      "abr": "reddragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggRedDragonFertilized",
+      "price": -10
+    },
+    {
+      "abr": "rednebuladragon",
+      "category": "Animal",
+      "defname": "Red_Nebula_Dragon",
+      "price": -10
+    },
+    {
+      "abr": "rednebuladragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggRedNebulaDragonFertilized",
+      "price": -10
+    },
+    {
+      "abr": "richdragonleather",
+      "category": "Leathers",
+      "defname": "Rich_Dragon_Leather",
+      "price": -10
+    },
+    {
+      "abr": "runningtrack",
+      "category": "Furniture",
+      "defname": "AvaliRunningTrack",
+      "price": -10
+    },
+    {
+      "abr": "rurelionzol",
+      "category": "Animal",
+      "defname": "Rurelion_Zol_Dragon",
+      "price": -10
+    },
+    {
+      "abr": "rurelionzoldragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "RurelionDragonFertilized",
+      "price": -10
+    },
+    {
+      "abr": "scarf",
+      "category": "Headgear",
+      "defname": "Avali_Apparel_Scarf",
+      "price": -10
+    },
+    {
+      "abr": "shasauruvenddi",
+      "category": "Texts",
+      "defname": "PrecursorText1_T",
+      "price": -10
+    },
+    {
+      "abr": "silverdragon",
+      "category": "Animal",
+      "defname": "Silver_Dragon",
+      "price": -10
+    },
+    {
+      "abr": "silverdragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggSilverDragonFertilized",
+      "price": -10
+    },
+    {
+      "abr": "smallfinemeal",
+      "category": "Avali meals",
+      "defname": "MealSmallFine",
+      "price": -10
+    },
+    {
+      "abr": "smalllavishmeal",
+      "category": "Avali meals",
+      "defname": "MealSmallLavish",
+      "price": -10
+    },
+    {
+      "abr": "smallpackagedsurvivalmeal",
+      "category": "Meals",
+      "defname": "MealSmallSurvivalPack",
+      "price": -10
+    },
+    {
+      "abr": "smallsimplemeal",
+      "category": "Avali meals",
+      "defname": "MealSmallSimple",
+      "price": -10
+    },
+    {
+      "abr": "spicyjerky",
+      "category": "Avali meals",
+      "defname": "AvaliSpicyJerky",
+      "price": -10
+    },
+    {
+      "abr": "starlamp",
+      "category": "Furniture",
+      "defname": "RWY_StarLamp",
+      "price": -10
+    },
+    {
+      "abr": "textsgohere",
+      "category": "Texts",
+      "defname": "TextThing",
+      "price": -10
+    },
+    {
+      "abr": "truedragon",
+      "category": "Animal",
+      "defname": "True_Dragon",
+      "price": -10
+    },
+    {
+      "abr": "truedragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggTrueDragonFertilized",
+      "price": -10
+    },
+    {
+      "abr": "truedragonleather",
+      "category": "Leathers",
+      "defname": "True_Dragon_Leather",
+      "price": -10
+    },
+    {
+      "abr": "utfinformingagency:anewracehasbeendiscovered!",
+      "category": "Texts",
+      "defname": "UTFNews1_T",
+      "price": -10
+    },
+    {
+      "abr": "voiddragon",
+      "category": "Animal",
+      "defname": "EH_Void_Dragon",
+      "price": -10
+    },
+    {
+      "abr": "voiddragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggEHVoidDragonFertilized",
+      "price": -10
+    },
+    {
+      "abr": "voidlamp",
+      "category": "Furniture",
+      "defname": "RWY_VoidLamp",
+      "price": -10
+    },
+    {
+      "abr": "whitedragon",
+      "category": "Animal",
+      "defname": "White_Dragon",
+      "price": -10
+    },
+    {
+      "abr": "whitedragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggWhiteDragonFertilized",
+      "price": -10
+    },
+    {
+      "abr": "worldeaterdragon",
+      "category": "Animal",
+      "defname": "Eater_Void_Dragon",
+      "price": -10
+    },
+    {
+      "abr": "wovengraphene",
+      "category": "Manufactured",
+      "defname": "AvaliGraphene",
+      "price": -10
+    },
+    {
+      "abr": "yellowdragon",
+      "category": "Animal",
+      "defname": "Yellow_Dragon",
+      "price": -10
+    },
+    {
+      "abr": "yellowdragonegg(fert.)",
+      "category": "Dragon eggs (fert.)",
+      "defname": "EggYellowDragonFertilized",
+      "price": -10
     },
     {
       "abr": "commoninfuser",
       "category": "Infusers",
       "defname": "Infusion_Infuser_Common",
-      "price": 333
+      "price": -10
     },
     {
       "abr": "uncommoninfuser",
       "category": "Infusers",
       "defname": "Infusion_Infuser_Uncommon",
-      "price": 833
+      "price": -10
     },
     {
       "abr": "rareinfuser",
       "category": "Infusers",
       "defname": "Infusion_Infuser_Rare",
-      "price": 1833
+      "price": -10
     },
     {
       "abr": "legendaryinfuser",
       "category": "Infusers",
       "defname": "Infusion_Infuser_Legendary",
-      "price": 3000
+      "price": -10
     }
   ],
-  "total": 1826
+  "total": 2006
 }
