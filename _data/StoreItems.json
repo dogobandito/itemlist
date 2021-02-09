@@ -7750,7 +7750,7 @@
       "abr": "psylinkneuroformer",
       "category": "Archotech",
       "defname": "PsychicAmplifier",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "psytrainer(beckon)",
