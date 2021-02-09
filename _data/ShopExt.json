@@ -4683,6 +4683,29 @@
       "stats": [],
       "conflicts": [],
       "bypassLimit": false
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "defName": "FearsFire",
+      "degree": 0,
+      "name": "fearsfire",
+      "data": {
+        "canBypassLimit": false,
+        "conflicts": [
+          "pyromaniac"
+        ],
+        "customName": false,
+        "stats": []
+      },
+      "description": "Timmy fears fire and tries to stay as far away from any source of fire as possible.",
+      "stats": [],
+      "conflicts": [
+        "pyromaniac"
+      ],
+      "bypassLimit": false
     }
   ],
   "races": [
@@ -4763,6 +4786,15 @@
       "defName": "Thrumkin",
       "enabled": true,
       "name": "thrumkin",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 2500,
+      "defName": "Avali",
+      "enabled": true,
+      "name": "avali",
       "data": {
         "customName": false
       }
