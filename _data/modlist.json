@@ -40,6 +40,16 @@
     "name": "Giddy-up! Core"
   },
   {
+    "author": "Erisss, FacePlus, Ksisa",
+    "name": "Avali Continued [1.1]"
+  },
+  {
+    "author": "Onyxae",
+    "name": "Dragon's Descent",
+    "steamId": "2026992161",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Runne Latki",
     "name": "Rabbie The Moonrabbit race"
   },
@@ -48,6 +58,18 @@
     "name": "Twitch Toolkit",
     "steamId": "1718525787",
     "version": "2.0.10.0"
+  },
+  {
+    "author": "swemoney",
+    "name": "Toolkit - Channel Points",
+    "steamId": "1916651243",
+    "version": "1.2.0"
+  },
+  {
+    "author": "hodlhodl",
+    "name": "TwitchToolkit - Lootboxes",
+    "steamId": "1720021578",
+    "version": "1.0.0.0"
   },
   {
     "author": "EdB",
@@ -64,12 +86,6 @@
     "name": "Crash Landing",
     "steamId": "2289694750",
     "version": "1.0.0.1"
-  },
-  {
-    "author": "SirRandoo",
-    "name": "ToolkitResearch",
-    "steamId": "2312827542",
-    "version": "1.0.1.6"
   },
   {
     "author": "SirRandoo",
@@ -114,6 +130,14 @@
   {
     "author": "Carolusclen",
     "name": "World Map Beautification Project - for Alpha Biomes"
+  },
+  {
+    "author": "Ravvy",
+    "name": "[RWY]Dragon's Descent: Void Dwellers"
+  },
+  {
+    "author": "Dutchman",
+    "name": "Artifacts Improved - Dragon's Descent"
   },
   {
     "author": "Dylan",
@@ -380,12 +404,6 @@
     "name": "QualityBuilder",
     "steamId": "754637870",
     "version": "1.0.14"
-  },
-  {
-    "author": "Uuugggg",
-    "name": "Random Research",
-    "steamId": "1374065851",
-    "version": "1.0.0.0"
   },
   {
     "author": "Jascha Ephraim",
@@ -662,18 +680,8 @@
     "name": "Vanilla Plants Expanded"
   },
   {
-    "author": "Balthoraz",
-    "name": "RimUniverse - Core",
-    "steamId": "2257043629",
-    "version": "1.1.57.0"
-  },
-  {
     "author": "Helixien, Taranchuk, Odeum",
     "name": "[HLX] ReGrowth - Volcanic Ice Sheet - Beta"
-  },
-  {
-    "author": "Balthoraz",
-    "name": "RimUniverse - Biomes"
   },
   {
     "author": "Kiame Vivacity",
@@ -744,12 +752,6 @@
   {
     "author": "Grimm",
     "name": "Un-Limited"
-  },
-  {
-    "author": "Jecrell",
-    "name": "RimQuest (Continued)",
-    "steamId": "2263331727",
-    "version": "1.2.6.0"
   },
   {
     "author": "SirRandoo",
