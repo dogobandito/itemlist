@@ -2074,7 +2074,7 @@
       "abr": "chicken",
       "category": "Animal",
       "defname": "Chicken",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "chickenegg(fert.)",
@@ -4690,7 +4690,7 @@
       "abr": "husky",
       "category": "Animal",
       "defname": "Husky",
-      "price": -10
+      "price": 666
     },
     {
       "abr": "huskymeat",
@@ -5686,13 +5686,13 @@
       "abr": "kyulen",
       "category": "Animal",
       "defname": "Ninetailfox",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "kyulen",
       "category": "Animal",
       "defname": "Ninetailfoxwt",
-      "price": -10
+      "price": 10000
     },
     {
       "abr": "kyulenbead",
