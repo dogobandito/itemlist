@@ -11242,7 +11242,7 @@
       "abr": "avalilifesupportbelt",
       "category": "Avali apparel",
       "defname": "Apparel_LifeSupportBeltAvali",
-      "price": -10
+      "price": 380
     },
     {
       "abr": "avalilightcombathelmet",
@@ -11608,7 +11608,7 @@
       "abr": "dragon'sblood",
       "category": "Drugs",
       "defname": "DragonsBlood",
-      "price": -10
+      "price": 300
     },
     {
       "abr": "eatervoiddragonegg(fert.)",
