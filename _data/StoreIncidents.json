@@ -206,27 +206,7 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "dropraid",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "sapperraid",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "infestation",
-		"price": 2500,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "manhunterpack",
-		"price": 1500,
-		"karmatype": "Bad"
-	},
-	{
-		"abr": "predators",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
@@ -351,5 +331,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 70
+	"total": 66
 }
