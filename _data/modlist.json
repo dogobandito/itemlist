@@ -80,6 +80,24 @@
     "name": "Compressed Raid"
   },
   {
+    "author": "AUTOMATIC",
+    "name": "Gunplay",
+    "steamId": "2034896549",
+    "version": "1.0.379.0018"
+  },
+  {
+    "author": "Roolo",
+    "name": "Dual Wield",
+    "steamId": "1628211313",
+    "version": "0.5.0.0"
+  },
+  {
+    "author": "YAYO",
+    "name": "Yayo's Combat 3",
+    "steamId": "2038409475",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "EdB",
     "name": "EdB Prepare Carefully"
   },
@@ -106,12 +124,6 @@
     "name": "Compact Hediffs",
     "steamId": "2031734067",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "CE Team",
-    "name": "Combat Extended",
-    "steamId": "1631756268",
-    "version": "1.2.3.2"
   },
   {
     "author": "AUTOMATIC",
@@ -222,12 +234,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Roolo",
-    "name": "Dual Wield",
-    "steamId": "1628211313",
-    "version": "0.5.0.0"
-  },
-  {
     "author": "Kosaro",
     "name": "Fahrenheit and Celsius"
   },
@@ -284,12 +290,6 @@
   {
     "author": "Roolo",
     "name": "Giddy-up! Ride and Roll"
-  },
-  {
-    "author": "AUTOMATIC",
-    "name": "Gunplay",
-    "steamId": "2034896549",
-    "version": "1.0.379.0018"
   },
   {
     "author": "OdysseyScorpio / TwistedSoul / TheCodeCache.NET",
