@@ -14838,17 +14838,6 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Gun_AntiArmor_Rocket": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Yayo's Combat 3",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
   "SF_PoweredAssaultArmor": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20390,94 +20379,6 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Dubs Bad Hygiene",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "yy_ammo_spacer_emp": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Yayo's Combat 3",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "yy_ammo_spacer_fire": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Yayo's Combat 3",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "yy_ammo_spacer": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Yayo's Combat 3",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "yy_ammo_industrial_emp": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Yayo's Combat 3",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "yy_ammo_industrial_fire": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Yayo's Combat 3",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "yy_ammo_industrial": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Yayo's Combat 3",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "yy_ammo_primitive_emp": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Yayo's Combat 3",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "yy_ammo_primitive_fire": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Yayo's Combat 3",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
