@@ -13650,69 +13650,58 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Turret_AGSThirty": {
+  "plumbingValve": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
+    "Mod": "Dubs Bad Hygiene",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Turret_KPV": {
+  "VWE_FlashGrenade": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
+    "Mod": "Vanilla Weapons Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Turret_M240B": {
+  "VWE_SmokeGrenade": {
     "HasQuantityLimit": false,
     "IsMelee": false,
-    "IsRanged": false,
+    "IsRanged": true,
     "IsStuffAllowed": true,
-    "IsWeapon": false,
+    "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
+    "Mod": "Vanilla Weapons Expanded",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Turret_Heavy": {
+  "VFEI_Shell_PsychicWarhead": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
+    "Mod": "Vanilla Factions Expanded - Insectoids",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Turret_Blaster": {
+  "denture": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "AmmoBench": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
+    "Mod": "Expanded Prosthetics and Organ Engineering",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -20173,223 +20162,223 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Turret_Flak": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Prometheum": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "FSX": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Apparel_TacVest": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Apparel_Backpack": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Apparel_TribalBackpack": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Apparel_Bascinet": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Apparel_GasMask": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Apparel_ImprovGasMask": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Apparel_MeleeShield": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Apparel_BallisticShield": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Apparel_CompositeVest": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Weapon_GrenadeFlashbang": {
+  "Gun_AntiArmor_Rocket": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
+    "Mod": "Yayo's Combat 3",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "Weapon_GrenadeStickBomb": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Weapon_GrenadeSmoke": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Weapon_GrenadeFirefoam": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "CE_GrenadeLauncher": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "Gun_BinocularsRadio": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": true,
-    "IsStuffAllowed": true,
-    "IsWeapon": true,
-    "KarmaType": "Neutral",
-    "Mod": "Combat Extended",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "plumbingValve": {
+  "yy_ammo_spacer_emp": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Dubs Bad Hygiene",
+    "Mod": "Yayo's Combat 3",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "denture": {
+  "yy_ammo_spacer_fire": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
     "IsStuffAllowed": true,
     "IsWeapon": false,
     "KarmaType": "Neutral",
-    "Mod": "Expanded Prosthetics and Organ Engineering",
+    "Mod": "Yayo's Combat 3",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "yy_ammo_spacer": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Yayo's Combat 3",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "yy_ammo_industrial_emp": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Yayo's Combat 3",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "yy_ammo_industrial_fire": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Yayo's Combat 3",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "yy_ammo_industrial": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Yayo's Combat 3",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "yy_ammo_primitive_emp": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Yayo's Combat 3",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "yy_ammo_primitive_fire": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Yayo's Combat 3",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Gun_InfernoCannonTurret": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "Royalty",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Gun_ChargeLance": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "RimWorld",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Gun_InfernoCannon": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "RimWorld",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Gun_Minigun": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "RimWorld",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Gun_EmpLauncher": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "RimWorld",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Gun_SmokeLauncher": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": true,
+    "IsStuffAllowed": true,
+    "IsWeapon": true,
+    "KarmaType": "Neutral",
+    "Mod": "RimWorld",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Shell_AntigrainWarhead": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "RimWorld",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Shell_Firefoam": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "RimWorld",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Shell_Smoke": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "RimWorld",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Shell_EMP": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "RimWorld",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "Shell_Incendiary": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "RimWorld",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
@@ -21768,14 +21757,14 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "GN_ATFour": {
+  "Shell_HighExplosive": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": true,
     "IsStuffAllowed": true,
     "IsWeapon": true,
     "KarmaType": "Neutral",
-    "Mod": "Gun Nut - Community Pack",
+    "Mod": "RimWorld",
     "QuantityLimit": -1,
     "Weight": 1.0
   },
