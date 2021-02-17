@@ -56,6 +56,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "flashstorm",
+		"price": 400,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "coldsnap",
 		"price": 800,
 		"karmatype": "Bad"
@@ -76,9 +81,19 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "aurora",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "blight",
 		"price": 700,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "animaltame",
+		"price": 150,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "resourcepodcrash",
@@ -121,6 +136,11 @@
 		"karmatype": "Good"
 	},
 	{
+		"abr": "ambrosiasprout",
+		"price": 150,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "herdmigration",
 		"price": 200,
 		"karmatype": "Good"
@@ -147,6 +167,11 @@
 	},
 	{
 		"abr": "visitorgroup",
+		"price": 200,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "skillincrease",
 		"price": 200,
 		"karmatype": "Good"
 	},
@@ -181,12 +206,12 @@
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "sapperraid",
-		"price": 2500,
+		"abr": "dropraid",
+		"price": 1500,
 		"karmatype": "Bad"
 	},
 	{
-		"abr": "mechanoidraid",
+		"abr": "sapperraid",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
@@ -197,6 +222,11 @@
 	},
 	{
 		"abr": "manhunterpack",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "predators",
 		"price": 1500,
 		"karmatype": "Bad"
 	},
@@ -321,5 +351,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 64
+	"total": 70
 }
