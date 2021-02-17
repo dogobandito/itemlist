@@ -512,29 +512,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5000,
-      "defName": "Bravery",
-      "degree": 1,
-      "name": "brave",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": [
-          "-50% suppressability"
-        ]
-      },
-      "description": "Few things scare Timmy. In battle he stands unfazed where others panic and flee.",
-      "stats": [
-        "-50% suppressability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5000,
       "defName": "Brawler",
       "degree": 0,
       "name": "brawler",
@@ -993,29 +970,6 @@
       "canRemove": true,
       "addPrice": 3500,
       "removePrice": 5000,
-      "defName": "Bravery",
-      "degree": -1,
-      "name": "cowardly",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": [
-          "+25% suppressability"
-        ]
-      },
-      "description": "Timmy always shies away from danger. he is usually the first to flee from battle.",
-      "stats": [
-        "+25% suppressability"
-      ],
-      "conflicts": [],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5000,
       "defName": "RCT_Eyesight",
       "degree": -1,
       "name": "cranialnervepalsy",
@@ -1426,29 +1380,6 @@
         "actiongirl",
         "rooted"
       ],
-      "bypassLimit": false
-    },
-    {
-      "canAdd": true,
-      "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5000,
-      "defName": "Bravery",
-      "degree": 2,
-      "name": "fearless",
-      "data": {
-        "canBypassLimit": false,
-        "conflicts": [],
-        "customName": false,
-        "stats": [
-          "-100% suppressability"
-        ]
-      },
-      "description": "Timmy laughs in the face of danger. Some ascribe it to bravery, others to stupidity. Either way, Timmy seems to lack any sense of self-preservation and will never flee from a threatening situation.",
-      "stats": [
-        "-100% suppressability"
-      ],
-      "conflicts": [],
       "bypassLimit": false
     },
     {
@@ -4779,7 +4710,7 @@
   ],
   "races": [
     {
-      "price": 2500,
+      "price": 2000,
       "defName": "Avali",
       "enabled": true,
       "name": "avali",
@@ -4788,7 +4719,7 @@
       }
     },
     {
-      "price": 9667,
+      "price": 5000,
       "defName": "Dragonian_Male",
       "enabled": false,
       "name": "Dragonian",
@@ -4797,7 +4728,7 @@
       }
     },
     {
-      "price": 9667,
+      "price": 5000,
       "defName": "Dragonian_Female",
       "enabled": false,
       "name": "Dragonian",
@@ -4806,7 +4737,7 @@
       }
     },
     {
-      "price": 4000,
+      "price": 3000,
       "defName": "Alien_Drow_Otto",
       "enabled": true,
       "name": "Drow",
@@ -4815,7 +4746,7 @@
       }
     },
     {
-      "price": 3000,
+      "price": 2500,
       "defName": "Harpy",
       "enabled": true,
       "name": "harpy",
@@ -4833,7 +4764,7 @@
       }
     },
     {
-      "price": 4000,
+      "price": 3000,
       "defName": "Kurin_Race",
       "enabled": true,
       "name": "Kurin",
@@ -4842,7 +4773,7 @@
       }
     },
     {
-      "price": 2000,
+      "price": 1500,
       "defName": "Rabbie",
       "enabled": true,
       "name": "Rabbie",
@@ -4851,7 +4782,7 @@
       }
     },
     {
-      "price": 4000,
+      "price": 3000,
       "defName": "ReviaRaceAlien",
       "enabled": true,
       "name": "Revia",
