@@ -9256,7 +9256,7 @@
       "abr": "medicinalcactipinequill",
       "category": "Medicine",
       "defname": "AA_CactipineQuill",
-      "price": -10
+      "price": 100
     },
     {
       "abr": "medicinecabinet",
@@ -10444,7 +10444,7 @@
       "abr": "psychicanimaltamer",
       "category": "Artifacts",
       "defname": "VFEI_Artifacts_PsychicAnimalTamer",
-      "price": -10
+      "price": 5000
     },
     {
       "abr": "psychiccornucopia",
