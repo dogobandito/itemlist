@@ -216,6 +216,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "reviveany",
+		"price": 1200,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "pawn",
 		"price": 1,
 		"karmatype": "Good"
@@ -292,7 +297,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 1,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -331,5 +336,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 66
+	"total": 67
 }
