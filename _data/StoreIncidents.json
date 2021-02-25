@@ -167,7 +167,7 @@
 	},
 	{
 		"abr": "visitorgroup",
-		"price": 200,
+		"price": 600,
 		"karmatype": "Good"
 	},
 	{
@@ -197,7 +197,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 700,
+		"price": 1500,
 		"karmatype": "Good"
 	},
 	{
