@@ -117,7 +117,7 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 400,
+		"price": 666,
 		"karmatype": "Neutral"
 	},
 	{
@@ -162,7 +162,7 @@
 	},
 	{
 		"abr": "travelergroup",
-		"price": 80,
+		"price": 120,
 		"karmatype": "Good"
 	},
 	{
@@ -197,7 +197,7 @@
 	},
 	{
 		"abr": "militaryaid",
-		"price": 1500,
+		"price": 5000,
 		"karmatype": "Good"
 	},
 	{
