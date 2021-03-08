@@ -1042,7 +1042,7 @@
       "abr": "gold",
       "category": "Raw resources",
       "defname": "Gold",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "goose",
@@ -3068,25 +3068,25 @@
     },
     {
       "abr": "ancientbanner",
-      "category": "Furniture",
+      "category": "Art",
       "defname": "RWY_Banner_A",
       "price": -10
     },
     {
       "abr": "ancientbanner",
-      "category": "Furniture",
+      "category": "Art",
       "defname": "RWY_Banner_B",
       "price": -10
     },
     {
       "abr": "ancientbanner",
-      "category": "Furniture",
+      "category": "Art",
       "defname": "RWY_Banner_C",
       "price": -10
     },
     {
       "abr": "ancientbanner",
-      "category": "Furniture",
+      "category": "Art",
       "defname": "RWY_Banner_D",
       "price": -10
     },
@@ -3302,31 +3302,31 @@
     },
     {
       "abr": "dragonstatuea",
-      "category": "Furniture",
+      "category": "Art",
       "defname": "Dragon_Statue_A",
       "price": -10
     },
     {
       "abr": "dragonstatueb",
-      "category": "Furniture",
+      "category": "Art",
       "defname": "Dragon_Statue_B",
       "price": -10
     },
     {
       "abr": "dragonstatuec",
-      "category": "Furniture",
+      "category": "Art",
       "defname": "Dragon_Statue_C",
       "price": -10
     },
     {
       "abr": "dragonstatued",
-      "category": "Furniture",
+      "category": "Art",
       "defname": "Dragon_Statue_D",
       "price": -10
     },
     {
       "abr": "dragonstatuee",
-      "category": "Furniture",
+      "category": "Art",
       "defname": "Dragon_Statue_E",
       "price": -10
     },
@@ -12241,6 +12241,78 @@
       "price": 323
     },
     {
+      "abr": "animacolossus",
+      "category": "Animal",
+      "defname": "AA_AnimaColossus",
+      "price": 1083
+    },
+    {
+      "abr": "bioelectricorganimplant",
+      "category": "Animal Body Part",
+      "defname": "AA_BioelectricOrganImplant",
+      "price": 1333
+    },
+    {
+      "abr": "crescendoanole",
+      "category": "Animal",
+      "defname": "AA_CrescendoAnole",
+      "price": 750
+    },
+    {
+      "abr": "crescendoanoleegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "AA_EggCrescendoAnoleFertilized",
+      "price": 15
+    },
+    {
+      "abr": "crystallinecaracal",
+      "category": "Animal",
+      "defname": "AA_CrystallineCaracal",
+      "price": 1667
+    },
+    {
+      "abr": "erin",
+      "category": "Animal",
+      "defname": "AA_Erin",
+      "price": 917
+    },
+    {
+      "abr": "grey-coatedmouflon",
+      "category": "Animal",
+      "defname": "AA_GreyCoatedMouflon",
+      "price": 1083
+    },
+    {
+      "abr": "grey-coatedmouflonwool",
+      "category": "Textiles",
+      "defname": "AA_GreyCoatedMouflonWool",
+      "price": 4
+    },
+    {
+      "abr": "hugeanimapearl",
+      "category": "Manufactured",
+      "defname": "AA_HugeAnimaPearl",
+      "price": 83
+    },
+    {
+      "abr": "hyperacidicstomachimplant",
+      "category": "Animal Body Part",
+      "defname": "AA_HyperAcidicStomachImplant",
+      "price": 1333
+    },
+    {
+      "abr": "lightfocusinglensimplant",
+      "category": "Animal Body Part",
+      "defname": "AA_LightFocusingLensImplant",
+      "price": 1333
+    },
+    {
+      "abr": "thunderbeast",
+      "category": "Animal",
+      "defname": "AA_Thunderbeast",
+      "price": 1250
+    },
+    {
       "abr": "commoninfuser",
       "category": "Infusers",
       "defname": "Infusion_Infuser_Common",
@@ -12263,7 +12335,19 @@
       "category": "Infusers",
       "defname": "Infusion_Infuser_Legendary",
       "price": 3000
+    },
+    {
+      "abr": "bionicbladder",
+      "category": "Bionic",
+      "defname": "BionicBladder",
+      "price": 1308
+    },
+    {
+      "abr": "hygieneenhancer",
+      "category": "Bionic",
+      "defname": "HygieneEnhancer",
+      "price": 1308
     }
   ],
-  "total": 2044
+  "total": 2058
 }
