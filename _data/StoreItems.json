@@ -3982,7 +3982,7 @@
       "abr": "nebuladust",
       "category": "Raw resources",
       "defname": "DD_NebulaDust",
-      "price": -10
+      "price": 50
     },
     {
       "abr": "nebulalamp",
@@ -12313,6 +12313,18 @@
       "price": 1250
     },
     {
+      "abr": "bionicbladder",
+      "category": "Bionic",
+      "defname": "BionicBladder",
+      "price": 1308
+    },
+    {
+      "abr": "hygieneenhancer",
+      "category": "Bionic",
+      "defname": "HygieneEnhancer",
+      "price": 1308
+    },
+    {
       "abr": "commoninfuser",
       "category": "Infusers",
       "defname": "Infusion_Infuser_Common",
@@ -12337,17 +12349,17 @@
       "price": 3000
     },
     {
-      "abr": "bionicbladder",
-      "category": "Bionic",
-      "defname": "BionicBladder",
-      "price": 1308
+      "abr": "zombrella",
+      "category": "Misc",
+      "defname": "Zombrella",
+      "price": 3333
     },
     {
-      "abr": "hygieneenhancer",
-      "category": "Bionic",
-      "defname": "HygieneEnhancer",
-      "price": 1308
+      "abr": "zombgrella",
+      "category": "Misc",
+      "defname": "Zombgrella",
+      "price": 642
     }
   ],
-  "total": 2058
+  "total": 2060
 }
