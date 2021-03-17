@@ -9682,7 +9682,7 @@
       "abr": "archotechharpywing",
       "category": "Archotech",
       "defname": "ArchotechWingHarpy",
-      "price": -10
+      "price": 4000
     },
     {
       "abr": "asval",
@@ -12244,43 +12244,43 @@
       "abr": "animacolossus",
       "category": "Animal",
       "defname": "AA_AnimaColossus",
-      "price": 1083
+      "price": -10
     },
     {
       "abr": "bioelectricorganimplant",
       "category": "Animal Body Part",
       "defname": "AA_BioelectricOrganImplant",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "crescendoanole",
       "category": "Animal",
       "defname": "AA_CrescendoAnole",
-      "price": 750
+      "price": -10
     },
     {
       "abr": "crescendoanoleegg(fert.)",
       "category": "Eggs (fert.)",
       "defname": "AA_EggCrescendoAnoleFertilized",
-      "price": 15
+      "price": -10
     },
     {
       "abr": "crystallinecaracal",
       "category": "Animal",
       "defname": "AA_CrystallineCaracal",
-      "price": 1667
+      "price": -10
     },
     {
       "abr": "erin",
       "category": "Animal",
       "defname": "AA_Erin",
-      "price": 917
+      "price": -10
     },
     {
       "abr": "grey-coatedmouflon",
       "category": "Animal",
       "defname": "AA_GreyCoatedMouflon",
-      "price": 1083
+      "price": -10
     },
     {
       "abr": "grey-coatedmouflonwool",
@@ -12292,37 +12292,37 @@
       "abr": "hugeanimapearl",
       "category": "Manufactured",
       "defname": "AA_HugeAnimaPearl",
-      "price": 83
+      "price": -10
     },
     {
       "abr": "hyperacidicstomachimplant",
       "category": "Animal Body Part",
       "defname": "AA_HyperAcidicStomachImplant",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "lightfocusinglensimplant",
       "category": "Animal Body Part",
       "defname": "AA_LightFocusingLensImplant",
-      "price": 1333
+      "price": -10
     },
     {
       "abr": "thunderbeast",
       "category": "Animal",
       "defname": "AA_Thunderbeast",
-      "price": 1250
+      "price": -10
     },
     {
       "abr": "bionicbladder",
       "category": "Bionic",
       "defname": "BionicBladder",
-      "price": 1308
+      "price": -10
     },
     {
       "abr": "hygieneenhancer",
       "category": "Bionic",
       "defname": "HygieneEnhancer",
-      "price": 1308
+      "price": -10
     },
     {
       "abr": "commoninfuser",
@@ -12352,13 +12352,13 @@
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
-      "price": 3333
+      "price": -10
     },
     {
       "abr": "zombgrella",
       "category": "Misc",
       "defname": "Zombgrella",
-      "price": 642
+      "price": -10
     }
   ],
   "total": 2060
