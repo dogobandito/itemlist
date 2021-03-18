@@ -2,12 +2,12 @@
 	"incitems" : [
 	{
 		"abr": "tornado",
-		"price": 2500,
+		"price": 6666,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "tornados",
-		"price": 5000,
+		"price": 15000,
 		"karmatype": "Doom"
 	},
 	{
@@ -266,11 +266,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "healall",
-		"price": 17336,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "healanypawn",
 		"price": 2000,
 		"karmatype": "Good"
@@ -293,17 +288,12 @@
 	{
 		"abr": "replacetrait",
 		"price": 1,
-		"karmatype": "Neutral"
+		"karmatype": "Good"
 	},
 	{
 		"abr": "rescueme",
 		"price": 800,
 		"karmatype": "Neutral"
-	},
-	{
-		"abr": "fullheal",
-		"price": 2167,
-		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
@@ -321,5 +311,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 64
+	"total": 62
 }
