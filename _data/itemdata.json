@@ -20162,6 +20162,39 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
+  "AA_EggCrescendoAnoleFertilized": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alpha Animals",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "BionicBladder": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Dubs Bad Hygiene",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "plumbingValve": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Dubs Bad Hygiene",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
   "denture": {
     "HasQuantityLimit": false,
     "IsMelee": false,
@@ -20207,39 +20240,6 @@
     "Weight": 1.0
   },
   "yy_ammo_industrial_emp": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Yayo's Combat 3",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "yy_ammo_industrial_fire": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Yayo's Combat 3",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "yy_ammo_industrial": {
-    "HasQuantityLimit": false,
-    "IsMelee": false,
-    "IsRanged": false,
-    "IsStuffAllowed": true,
-    "IsWeapon": false,
-    "KarmaType": "Neutral",
-    "Mod": "Yayo's Combat 3",
-    "QuantityLimit": -1,
-    "Weight": 1.0
-  },
-  "yy_ammo_primitive_emp": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -21944,7 +21944,7 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "yy_ammo_primitive_fire": {
+  "yy_ammo_industrial_fire": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -22032,7 +22032,117 @@
     "QuantityLimit": -1,
     "Weight": 1.0
   },
-  "plumbingValve": {
+  "yy_ammo_industrial": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Yayo's Combat 3",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AA_HugeAnimaPearl": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alpha Animals",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AA_GreyCoatedMouflonWool": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alpha Animals",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AA_AnimaColossus": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alpha Animals",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AA_CrescendoAnole": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alpha Animals",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AA_CrystallineCaracal": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alpha Animals",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AA_Erin": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alpha Animals",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AA_GreyCoatedMouflon": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alpha Animals",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "AA_Thunderbeast": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Alpha Animals",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "yy_ammo_primitive_emp": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Yayo's Combat 3",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "HygieneEnhancer": {
     "HasQuantityLimit": false,
     "IsMelee": false,
     "IsRanged": false,
@@ -22040,6 +22150,17 @@
     "IsWeapon": false,
     "KarmaType": "Neutral",
     "Mod": "Dubs Bad Hygiene",
+    "QuantityLimit": -1,
+    "Weight": 1.0
+  },
+  "yy_ammo_primitive_fire": {
+    "HasQuantityLimit": false,
+    "IsMelee": false,
+    "IsRanged": false,
+    "IsStuffAllowed": true,
+    "IsWeapon": false,
+    "KarmaType": "Neutral",
+    "Mod": "Yayo's Combat 3",
     "QuantityLimit": -1,
     "Weight": 1.0
   }
