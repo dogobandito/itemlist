@@ -1204,7 +1204,7 @@
       "abr": "herbalmedicine",
       "category": "Medicine",
       "defname": "MedicineHerbal",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "high-explosiveshell",
@@ -1474,7 +1474,7 @@
       "abr": "lavishmeal",
       "category": "Meals",
       "defname": "MealLavish",
-      "price": -10
+      "price": 69
     },
     {
       "abr": "learningassistant",
@@ -3364,13 +3364,13 @@
       "abr": "dragonianmilk",
       "category": "Animal products",
       "defname": "DragonianMilk",
-      "price": -10
+      "price": 18
     },
     {
       "abr": "dragonianwool",
       "category": "Textiles",
       "defname": "WoolDragonian",
-      "price": -10
+      "price": 20
     },
     {
       "abr": "dragon'sblood",
@@ -12352,13 +12352,13 @@
       "abr": "zombrella",
       "category": "Misc",
       "defname": "Zombrella",
-      "price": -10
+      "price": 3333
     },
     {
       "abr": "zombgrella",
       "category": "Misc",
       "defname": "Zombgrella",
-      "price": -10
+      "price": 642
     }
   ],
   "total": 2060
