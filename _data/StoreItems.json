@@ -6793,39 +6793,9 @@
       "price": -10
     },
     {
-      "abr": "antenna",
-      "category": "Insect",
-      "defname": "VFEI_Antenna",
-      "price": -10
-    },
-    {
-      "abr": "apiary",
-      "category": "Misc",
-      "defname": "VFEV_Apiary",
-      "price": -10
-    },
-    {
-      "abr": "archotecheraser",
-      "category": "Artifacts",
-      "defname": "VFEI_Artifacts_ArchotechEraser",
-      "price": -10
-    },
-    {
-      "abr": "archotechshieldbelt",
-      "category": "Artifacts",
-      "defname": "VFEI_Apparel_ArchotechShieldBelt",
-      "price": -10
-    },
-    {
       "abr": "archotechshieldgenerator",
       "category": "Special",
       "defname": "VFES_ShieldGenerator_Archotech",
-      "price": -10
-    },
-    {
-      "abr": "archotechteleporter",
-      "category": "Artifacts",
-      "defname": "VFEI_Artifacts_ArchotechTeleporter",
       "price": -10
     },
     {
@@ -7339,21 +7309,9 @@
       "price": -10
     },
     {
-      "abr": "bearheaddress",
-      "category": "Headgear",
-      "defname": "VFEV_BearHeaddress",
-      "price": -10
-    },
-    {
       "abr": "beartrap",
       "category": "Security",
       "defname": "VFES_BearTrap",
-      "price": -10
-    },
-    {
-      "abr": "beardedaxe",
-      "category": "Melee weapons",
-      "defname": "VFE_MeleeWeapon_BeardedAxe",
       "price": -10
     },
     {
@@ -7372,12 +7330,6 @@
       "abr": "bedbugegg(unfert.)",
       "category": "Eggs (unfert.)",
       "defname": "AA_BedBugEggUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "bio-engineeringincubator",
-      "category": "Furniture",
-      "defname": "VFEI_BioengineeringIncubator",
       "price": -10
     },
     {
@@ -7505,12 +7457,6 @@
       "category": "Animal Body Part",
       "defname": "BionicWing",
       "price": -10
-    },
-    {
-      "abr": "blackhivegeneticmaterial",
-      "category": "Manufactured",
-      "defname": "VFEI_BlackHiveGenome",
-      "price": 1000
     },
     {
       "abr": "blackhiveinsectjelly",
@@ -7801,12 +7747,6 @@
       "price": -10
     },
     {
-      "abr": "chitin",
-      "category": "Raw resources",
-      "defname": "VFEI_Chitin",
-      "price": -10
-    },
-    {
       "abr": "cinderlisk",
       "category": "Animal",
       "defname": "AA_Cinderlisk",
@@ -7885,12 +7825,6 @@
       "price": -10
     },
     {
-      "abr": "compoundeye",
-      "category": "Insect",
-      "defname": "VFEI_CompoundEye",
-      "price": -10
-    },
-    {
       "abr": "concussiveturret",
       "category": "Security",
       "defname": "Turret_ConcussiveTurret",
@@ -7906,12 +7840,6 @@
       "abr": "coresampledrill",
       "category": "Production",
       "defname": "AB_CoreSampleDrill",
-      "price": -10
-    },
-    {
-      "abr": "cowwool",
-      "category": "Textiles",
-      "defname": "VFEV_WoolCow",
       "price": -10
     },
     {
@@ -7948,60 +7876,6 @@
       "abr": "crossbow",
       "category": "Ranged weapons",
       "defname": "Thrumkin_Crossbow",
-      "price": -10
-    },
-    {
-      "abr": "cryptoarmor",
-      "category": "Armor",
-      "defname": "VFEV_CryptoArmor",
-      "price": -10
-    },
-    {
-      "abr": "cryptocrossbow",
-      "category": "Crypto weapons",
-      "defname": "VFEV_CryptoLightCrossbow",
-      "price": -10
-    },
-    {
-      "abr": "cryptohatchet",
-      "category": "Crypto weapons",
-      "defname": "VFEV_CryptoLightAxe",
-      "price": -10
-    },
-    {
-      "abr": "cryptoheavyarmor",
-      "category": "Armor",
-      "defname": "VFEV_CryptoHeavyArmor",
-      "price": -10
-    },
-    {
-      "abr": "cryptoheavycrossbow",
-      "category": "Crypto weapons",
-      "defname": "VFEV_CryptoHeavyCrossbow",
-      "price": -10
-    },
-    {
-      "abr": "cryptohelmet",
-      "category": "Headgear",
-      "defname": "VFEV_Apparel_CryptoLightHelmet",
-      "price": -10
-    },
-    {
-      "abr": "cryptopistol",
-      "category": "Crypto weapons",
-      "defname": "VFEV_CryptoPistol",
-      "price": -10
-    },
-    {
-      "abr": "cryptorifle",
-      "category": "Crypto weapons",
-      "defname": "VFEV_CryptoRifle",
-      "price": -10
-    },
-    {
-      "abr": "cryptoshield",
-      "category": "Shields",
-      "defname": "VFEV_Shield_Crypto",
       "price": -10
     },
     {
@@ -8068,12 +7942,6 @@
       "abr": "cyberneticavalitail",
       "category": "Avali",
       "defname": "CyberneticAvaliTail",
-      "price": -10
-    },
-    {
-      "abr": "daneaxe",
-      "category": "Melee weapons",
-      "defname": "VFE_MeleeWeapon_DaneAxe",
       "price": -10
     },
     {
@@ -8167,12 +8035,6 @@
       "price": -10
     },
     {
-      "abr": "doublefurbed",
-      "category": "Furniture",
-      "defname": "VFEV_DoubleFurBed",
-      "price": -10
-    },
-    {
       "abr": "doubleshelf",
       "category": "Furniture",
       "defname": "LWM_BigShelf",
@@ -8201,12 +8063,6 @@
       "category": "Grenades",
       "defname": "AB_WeaponPoisonDart",
       "price": -10
-    },
-    {
-      "abr": "dronegeneticmaterial",
-      "category": "Manufactured",
-      "defname": "VFEI_DroneGenome",
-      "price": 350
     },
     {
       "abr": "drow",
@@ -8350,30 +8206,6 @@
       "abr": "explorerpowerarmorhelmet",
       "category": "Headgear",
       "defname": "SF_ExplorerPowerArmorHelmet",
-      "price": -10
-    },
-    {
-      "abr": "facepaintingtable",
-      "category": "Misc",
-      "defname": "VFE_TableFacePaints",
-      "price": -10
-    },
-    {
-      "abr": "fenrir",
-      "category": "Animal",
-      "defname": "VFEV_Fenrir",
-      "price": -10
-    },
-    {
-      "abr": "fenrirmeat",
-      "category": "Meat",
-      "defname": "Meat_VFEV_Fenrir",
-      "price": -10
-    },
-    {
-      "abr": "fenrirskin",
-      "category": "Leathers",
-      "defname": "VFEV_Leather_Fenrir",
       "price": -10
     },
     {
@@ -8581,12 +8413,6 @@
       "price": -10
     },
     {
-      "abr": "furbed",
-      "category": "Furniture",
-      "defname": "VFEV_FurBed",
-      "price": -10
-    },
-    {
       "abr": "gallatross",
       "category": "Animal",
       "defname": "AA_Gallatross",
@@ -8620,12 +8446,6 @@
       "abr": "giantpolarprawn",
       "category": "Alien raw fish",
       "defname": "VCEF_GiantPolarPrawn",
-      "price": -10
-    },
-    {
-      "abr": "gigalocust",
-      "category": "Animal",
-      "defname": "VFEI_Insectoid_Gigalocust",
       "price": -10
     },
     {
@@ -8719,18 +8539,6 @@
       "price": -10
     },
     {
-      "abr": "guardianarmor",
-      "category": "Armor",
-      "defname": "VFEV_Apparel_GuardianArmor",
-      "price": -10
-    },
-    {
-      "abr": "guardianhelmet",
-      "category": "Headgear",
-      "defname": "VFEV_Apparel_GuardianHelmet",
-      "price": -10
-    },
-    {
       "abr": "guardiannanitesinjector",
       "category": "Avali nanites",
       "defname": "GuardianNanitesInjector",
@@ -8755,12 +8563,6 @@
       "price": -10
     },
     {
-      "abr": "harpoon",
-      "category": "Ranged weapons",
-      "defname": "VFE_Harpoon",
-      "price": -10
-    },
-    {
       "abr": "hayloft",
       "category": "Furniture",
       "defname": "LWM_Hayloft",
@@ -8776,18 +8578,6 @@
       "abr": "hazardoperationshelmet",
       "category": "Headgear",
       "defname": "SF_HazardOperationsArmorHelmet",
-      "price": -10
-    },
-    {
-      "abr": "heavycryptoaxe",
-      "category": "Crypto weapons",
-      "defname": "VFEV_CryptoHeavyAxe",
-      "price": -10
-    },
-    {
-      "abr": "heavycryptohelmet",
-      "category": "Headgear",
-      "defname": "VFEV_Apparel_CryptoHeavyHelmet",
       "price": -10
     },
     {
@@ -8824,12 +8614,6 @@
       "abr": "hexagelcore",
       "category": "Manufactured",
       "defname": "AA_HexagelCore",
-      "price": -10
-    },
-    {
-      "abr": "hnefatafltable",
-      "category": "Furniture",
-      "defname": "VFEV_Hnefatafl",
       "price": -10
     },
     {
@@ -8893,45 +8677,9 @@
       "price": -10
     },
     {
-      "abr": "insectcheese",
-      "category": "Meals",
-      "defname": "VCE_InsectCheese",
-      "price": -10
-    },
-    {
       "abr": "insectchitin",
       "category": "Leathers",
       "defname": "Leather_Chitin",
-      "price": -10
-    },
-    {
-      "abr": "insectmilk",
-      "category": "Animal products",
-      "defname": "VFEI_InsectMilk",
-      "price": -10
-    },
-    {
-      "abr": "insectoidarm",
-      "category": "Insect",
-      "defname": "VFEI_InsectoidArm",
-      "price": -10
-    },
-    {
-      "abr": "insectoidegg(unfert.)",
-      "category": "Eggs (unfert.)",
-      "defname": "VFEI_EggInsectoidUnfertilized",
-      "price": -10
-    },
-    {
-      "abr": "insectoidleg",
-      "category": "Insect",
-      "defname": "VFEI_InsectoidLeg",
-      "price": -10
-    },
-    {
-      "abr": "insectoidqueen",
-      "category": "Animal",
-      "defname": "VFEI_Insectoid_Queen",
       "price": -10
     },
     {
@@ -8980,24 +8728,6 @@
       "abr": "ironhuskbeetlemeat",
       "category": "Meat",
       "defname": "Meat_AA_IronhuskBeetle",
-      "price": -10
-    },
-    {
-      "abr": "jarlcape",
-      "category": "Apparel",
-      "defname": "VFEV_Apparel_JarlCape",
-      "price": -10
-    },
-    {
-      "abr": "jarlcrown",
-      "category": "Headgear",
-      "defname": "VFEV_JarlCrown",
-      "price": -10
-    },
-    {
-      "abr": "jellysac",
-      "category": "Insect",
-      "defname": "VFEI_JellySac",
       "price": -10
     },
     {
@@ -9079,27 +8809,9 @@
       "price": -10
     },
     {
-      "abr": "larvae",
-      "category": "Animal",
-      "defname": "VFEI_Insectoid_Larvae",
-      "price": -10
-    },
-    {
       "abr": "larvalatispec",
       "category": "Animal",
       "defname": "AA_LarvalAtispec",
-      "price": -10
-    },
-    {
-      "abr": "leatherarmor",
-      "category": "Armor",
-      "defname": "VFEV_LeatherArmor",
-      "price": -10
-    },
-    {
-      "abr": "leatherhelmet",
-      "category": "Headgear",
-      "defname": "VFEV_Apparel_LeatherHelmet",
       "price": -10
     },
     {
@@ -9118,30 +8830,6 @@
       "abr": "lockjawmeat",
       "category": "Meat",
       "defname": "Meat_AA_Lockjaw",
-      "price": -10
-    },
-    {
-      "abr": "lothurr",
-      "category": "Animal",
-      "defname": "VFEV_Lothurr",
-      "price": -10
-    },
-    {
-      "abr": "lothurrantler",
-      "category": "Items",
-      "defname": "VFEV_LothurrAntler",
-      "price": -10
-    },
-    {
-      "abr": "lothurrleather",
-      "category": "Leathers",
-      "defname": "VFEV_Leather_Lothurr",
-      "price": -10
-    },
-    {
-      "abr": "lothurrmeat",
-      "category": "Meat",
-      "defname": "Meat_VFEV_Lothurr",
       "price": -10
     },
     {
@@ -9187,12 +8875,6 @@
       "price": -10
     },
     {
-      "abr": "mandibles",
-      "category": "Insect",
-      "defname": "VFEI_Mandibles",
-      "price": -10
-    },
-    {
       "abr": "mantrap",
       "category": "Animal",
       "defname": "AA_Mantrap",
@@ -9208,18 +8890,6 @@
       "abr": "maturefleshbeastmeat",
       "category": "Meat",
       "defname": "Meat_AA_MatureFleshbeast",
-      "price": -10
-    },
-    {
-      "abr": "mead",
-      "category": "Drugs",
-      "defname": "VFEV_Mead",
-      "price": -10
-    },
-    {
-      "abr": "meadfermentingbarrel",
-      "category": "Production",
-      "defname": "VFEV_MeadFermentingBarrel",
       "price": -10
     },
     {
@@ -9283,12 +8953,6 @@
       "price": -10
     },
     {
-      "abr": "megapede",
-      "category": "Animal",
-      "defname": "VFEI_Insectoid_Megapede",
-      "price": -10
-    },
-    {
       "abr": "metallovore",
       "category": "Animal",
       "defname": "AA_Metallovore",
@@ -9313,21 +8977,9 @@
       "price": -10
     },
     {
-      "abr": "mjollnirstriketargeter",
-      "category": "Utility",
-      "defname": "VFEV_OrbitalTargeterMjollnir",
-      "price": -10
-    },
-    {
       "abr": "moonthread",
       "category": "Textiles",
       "defname": "Moonthread",
-      "price": -10
-    },
-    {
-      "abr": "mooseheaddress",
-      "category": "Headgear",
-      "defname": "VFEV_MooseHeaddress",
       "price": -10
     },
     {
@@ -9508,30 +9160,6 @@
       "abr": "nightrammeat",
       "category": "Meat",
       "defname": "Meat_AA_NightRam",
-      "price": -10
-    },
-    {
-      "abr": "njorun",
-      "category": "Animal",
-      "defname": "VFEV_Njorun",
-      "price": -10
-    },
-    {
-      "abr": "njorunmeat",
-      "category": "Meat",
-      "defname": "Meat_VFEV_Njorun",
-      "price": -10
-    },
-    {
-      "abr": "njorunfur",
-      "category": "Leathers",
-      "defname": "VFEV_Leather_Njorun",
-      "price": -10
-    },
-    {
-      "abr": "noblefurcoat",
-      "category": "Apparel",
-      "defname": "VFEV_Apparel_RoyalFurCoat",
       "price": -10
     },
     {
@@ -10273,12 +9901,6 @@
       "price": -10
     },
     {
-      "abr": "pheromonesecretor",
-      "category": "Insect",
-      "defname": "VFEI_PheromoneSecretor",
-      "price": -10
-    },
-    {
       "abr": "phoenixowlcat",
       "category": "Animal",
       "defname": "AA_PhoenixOwlcat",
@@ -10333,36 +9955,6 @@
       "price": -10
     },
     {
-      "abr": "plasmascattergun",
-      "category": "Ranged weapons",
-      "defname": "VFE_Gun_PlasmaScattergun",
-      "price": -10
-    },
-    {
-      "abr": "plasmabeamrifle",
-      "category": "Ranged weapons",
-      "defname": "VFE_Gun_PlasmabeamRifle",
-      "price": -10
-    },
-    {
-      "abr": "plasmacutter",
-      "category": "Ranged weapons",
-      "defname": "VFE_Gun_Plasmacutter",
-      "price": -10
-    },
-    {
-      "abr": "plasmapiercer",
-      "category": "Ranged weapons",
-      "defname": "VFE_Gun_Plasmapiercer",
-      "price": -10
-    },
-    {
-      "abr": "plasmasaw",
-      "category": "Melee weapons",
-      "defname": "VFE_Plasmasaw",
-      "price": -10
-    },
-    {
       "abr": "plasmorph",
       "category": "Animal",
       "defname": "AA_Plasmorph",
@@ -10381,12 +9973,6 @@
       "price": -10
     },
     {
-      "abr": "pneumaticclaw",
-      "category": "Insect",
-      "defname": "VFEI_PneumaticClaw",
-      "price": -10
-    },
-    {
       "abr": "poweredassaultarmor",
       "category": "Apparel",
       "defname": "SF_PoweredAssaultArmor",
@@ -10396,12 +9982,6 @@
       "abr": "poweredassaultarmorhelmet",
       "category": "Headgear",
       "defname": "SF_PoweredAssaultArmorHelmet",
-      "price": -10
-    },
-    {
-      "abr": "predatorstomach",
-      "category": "Insect",
-      "defname": "VFEI_PredatorStomach",
       "price": -10
     },
     {
@@ -10438,24 +10018,6 @@
       "abr": "prostheticharpywing",
       "category": "Prosthetic",
       "defname": "SimpleProstheticWingHarpy",
-      "price": -10
-    },
-    {
-      "abr": "psychicanimaltamer",
-      "category": "Artifacts",
-      "defname": "VFEI_Artifacts_PsychicAnimalTamer",
-      "price": 5000
-    },
-    {
-      "abr": "psychiccornucopia",
-      "category": "Artifacts",
-      "defname": "VFEV_PlantGrowerArtifact",
-      "price": -10
-    },
-    {
-      "abr": "psychicpacifier",
-      "category": "Artifacts",
-      "defname": "VFEI_Artifacts_PsychicPacifier",
       "price": -10
     },
     {
@@ -10765,27 +10327,9 @@
       "price": -10
     },
     {
-      "abr": "ravagerarmor",
-      "category": "Armor",
-      "defname": "VFEV_Apparel_RavagerArmor",
-      "price": -10
-    },
-    {
-      "abr": "ravagerhelmet",
-      "category": "Headgear",
-      "defname": "VFEV_Apparel_RavagerHelmet",
-      "price": -10
-    },
-    {
       "abr": "rawcactus",
       "category": "Vegetarian",
       "defname": "RG_RawCactus",
-      "price": -10
-    },
-    {
-      "abr": "rawhoney",
-      "category": "Animal products",
-      "defname": "VFEV_Honey",
       "price": -10
     },
     {
@@ -10933,24 +10477,6 @@
       "price": -10
     },
     {
-      "abr": "riotarmor",
-      "category": "Armor",
-      "defname": "VFE_Apparel_RiotArmor",
-      "price": -10
-    },
-    {
-      "abr": "riothelmet",
-      "category": "Headgear",
-      "defname": "VFE_Apparel_RiotHelmet",
-      "price": -10
-    },
-    {
-      "abr": "riotshield",
-      "category": "Shields",
-      "defname": "VFEI_Shield_Riot",
-      "price": -10
-    },
-    {
       "abr": "ripperhound",
       "category": "Animal",
       "defname": "AA_RipperHound",
@@ -10981,12 +10507,6 @@
       "price": -10
     },
     {
-      "abr": "roundshield",
-      "category": "Shields",
-      "defname": "VFEV_Shield_Round",
-      "price": -10
-    },
-    {
       "abr": "royalave",
       "category": "Animal",
       "defname": "AA_RoyalAve",
@@ -11002,30 +10522,6 @@
       "abr": "royalavemeat",
       "category": "Meat",
       "defname": "Meat_AA_RoyalAve",
-      "price": -10
-    },
-    {
-      "abr": "royalgeneticmaterial",
-      "category": "Manufactured",
-      "defname": "VFEI_RoyalGenome",
-      "price": 550
-    },
-    {
-      "abr": "royalinsectjelly",
-      "category": "Animal products",
-      "defname": "VFEI_RoyalInsectJelly",
-      "price": -10
-    },
-    {
-      "abr": "royalmegaspider",
-      "category": "Animal",
-      "defname": "VFEI_Insectoid_RoyalMegaspider",
-      "price": -10
-    },
-    {
-      "abr": "runestone",
-      "category": "Furniture",
-      "defname": "VFEV_RuneStone",
       "price": -10
     },
     {
@@ -11122,12 +10618,6 @@
       "abr": "searchlight",
       "category": "Security",
       "defname": "VFES_Turret_Searchlight",
-      "price": -10
-    },
-    {
-      "abr": "seax",
-      "category": "Melee weapons",
-      "defname": "VFE_MeleeWeapon_Seax",
       "price": -10
     },
     {
@@ -11395,12 +10885,6 @@
       "price": -10
     },
     {
-      "abr": "sonicinfestationrepeller",
-      "category": "Furniture",
-      "defname": "VFEI_SonicInfestationRepeller",
-      "price": -10
-    },
-    {
       "abr": "spacerlamp",
       "category": "Furniture",
       "defname": "Light_SpacerLamp",
@@ -11416,12 +10900,6 @@
       "abr": "spiderfish",
       "category": "Alien raw fish",
       "defname": "VCEF_Spiderfish",
-      "price": -10
-    },
-    {
-      "abr": "spidersilk",
-      "category": "Textiles",
-      "defname": "VFEI_Spidersilk",
       "price": -10
     },
     {
@@ -11518,18 +10996,6 @@
       "abr": "swarmlingmeat",
       "category": "Meat",
       "defname": "Meat_AA_Swarmling",
-      "price": -10
-    },
-    {
-      "abr": "sweetroll",
-      "category": "Foods",
-      "defname": "VFEV_Sweetroll",
-      "price": -10
-    },
-    {
-      "abr": "synapticcerebellum",
-      "category": "Insect",
-      "defname": "VFEI_SynapticCerebellum",
       "price": -10
     },
     {
@@ -11653,18 +11119,6 @@
       "price": -10
     },
     {
-      "abr": "throwabletorchbelt",
-      "category": "Utility",
-      "defname": "VFEV_Apparel_TorchBelt",
-      "price": -10
-    },
-    {
-      "abr": "throwingaxe",
-      "category": "Ranged weapons",
-      "defname": "VFE_ThrowingAxe",
-      "price": -10
-    },
-    {
       "abr": "thrumboian",
       "category": "Animal",
       "defname": "Alien_Thrumboian",
@@ -11713,12 +11167,6 @@
       "price": -10
     },
     {
-      "abr": "trainingdummy",
-      "category": "Recreation",
-      "defname": "VFEV_TrainingDummy",
-      "price": -10
-    },
-    {
       "abr": "tungstenresourcescrate",
       "category": "Furniture",
       "defname": "Bddy_cratetungsten",
@@ -11755,364 +11203,340 @@
       "price": -10
     },
     {
-      "abr": "vat-grownboomtick",
+      "abr": "alienleather",
+      "category": "Leathers",
+      "defname": "O21_AlienLeather_Thin",
+      "price": 7
+    },
+    {
+      "abr": "animacolossus",
       "category": "Animal",
-      "defname": "VFEI_VatgrownBoomtick",
-      "price": -10
+      "defname": "AA_AnimaColossus",
+      "price": 1083
     },
     {
-      "abr": "vat-growncuterpillar",
-      "category": "Animal",
-      "defname": "VFEI_VatGrownCuterpillar",
-      "price": -10
-    },
-    {
-      "abr": "vat-growngigalocust",
-      "category": "Animal",
-      "defname": "VFEI_VatGrownGigalocust",
-      "price": -10
-    },
-    {
-      "abr": "vat-growngigascorpion",
-      "category": "Animal",
-      "defname": "VFEI_VatGrownGigascorpion",
-      "price": -10
-    },
-    {
-      "abr": "vat-growngigawig",
-      "category": "Animal",
-      "defname": "VFEI_VatGrownGigawig",
-      "price": -10
-    },
-    {
-      "abr": "vat-grownmegacricket",
-      "category": "Animal",
-      "defname": "VFEI_VatGrownMegacricket",
-      "price": -10
-    },
-    {
-      "abr": "vat-grownmegapede",
-      "category": "Animal",
-      "defname": "VFEI_VatGrownMegapede",
-      "price": -10
-    },
-    {
-      "abr": "vat-grownmegascarab",
-      "category": "Animal",
-      "defname": "VFEI_VatGrownMegascarab",
-      "price": -10
-    },
-    {
-      "abr": "vat-grownmegaspider",
-      "category": "Animal",
-      "defname": "VFEI_VatgrownMegaspider",
-      "price": -10
-    },
-    {
-      "abr": "vat-grownmilkbeetle",
-      "category": "Animal",
-      "defname": "VFEI_VatGrownMilkbeetle",
-      "price": -10
-    },
-    {
-      "abr": "vat-grownmonstrosity",
-      "category": "Animal",
-      "defname": "VFEI_VatGrownMonstrosity",
-      "price": -10
-    },
-    {
-      "abr": "vat-grownprincess",
-      "category": "Animal",
-      "defname": "VFEI_VatGrownPrincess",
-      "price": -10
-    },
-    {
-      "abr": "vat-grownroyallarva",
-      "category": "Animal",
-      "defname": "VFEI_VatgrownRoyalLarva",
-      "price": -10
-    },
-    {
-      "abr": "vat-grownroyalmaggot",
-      "category": "Animal",
-      "defname": "VFEI_VatGrownRoyalMaggot",
-      "price": -10
-    },
-    {
-      "abr": "vat-grownspelopede",
-      "category": "Animal",
-      "defname": "VFEI_VatGrownSpelopede",
-      "price": -10
-    },
-    {
-      "abr": "vat-grownspiderweaver",
-      "category": "Animal",
-      "defname": "VFEI_VatGrownSpiderweaver",
-      "price": -10
-    },
-    {
-      "abr": "vat-growntitanbeetle",
-      "category": "Animal",
-      "defname": "VFEI_VatGrownTitanbeetle",
-      "price": -10
-    },
-    {
-      "abr": "vat-grownwargling",
-      "category": "Animal",
-      "defname": "VFEI_VatGrownWargling",
-      "price": -10
-    },
-    {
-      "abr": "vat-grownworkerant",
-      "category": "Animal",
-      "defname": "VFEI_VatGrownWorkerAnt",
-      "price": -10
-    },
-    {
-      "abr": "vendingmachinea",
-      "category": "Furniture",
-      "defname": "JDSVending_Machine",
-      "price": -10
-    },
-    {
-      "abr": "vendingmachineb",
-      "category": "Furniture",
-      "defname": "JDSVending_Machine_two",
-      "price": -10
-    },
-    {
-      "abr": "venomgland",
+      "abr": "antenna",
       "category": "Insect",
-      "defname": "VFEI_VenomGland",
-      "price": -10
-    },
-    {
-      "abr": "venomousspitterimplant",
-      "category": "Animal Body Part",
-      "defname": "AA_VenomousSpitterImplant",
-      "price": -10
-    },
-    {
-      "abr": "ventricularsleeve",
-      "category": "Insect",
-      "defname": "VFEI_VentricularSleeve",
-      "price": -10
-    },
-    {
-      "abr": "vitalscentre",
-      "category": "Misc",
-      "defname": "Facility_VitalsCentre",
-      "price": -10
-    },
-    {
-      "abr": "walllight",
-      "category": "Furniture",
-      "defname": "Lighting_MURWallLight",
-      "price": -10
-    },
-    {
-      "abr": "walllight(azure)",
-      "category": "Furniture",
-      "defname": "Lighting_MURWallLightAzure",
-      "price": -10
-    },
-    {
-      "abr": "walllight(blue)",
-      "category": "Furniture",
-      "defname": "Lighting_MURWallLightBlue",
-      "price": -10
-    },
-    {
-      "abr": "walllight(chartreuse)",
-      "category": "Furniture",
-      "defname": "Lighting_MURWallLightChartreuse",
-      "price": -10
-    },
-    {
-      "abr": "walllight(cyan)",
-      "category": "Furniture",
-      "defname": "Lighting_MURWallLightCyan",
-      "price": -10
-    },
-    {
-      "abr": "walllight(green)",
-      "category": "Furniture",
-      "defname": "Lighting_MURWallLightGreen",
-      "price": -10
-    },
-    {
-      "abr": "walllight(magenta)",
-      "category": "Furniture",
-      "defname": "Lighting_MURWallLightMagenta",
-      "price": -10
-    },
-    {
-      "abr": "walllight(orange)",
-      "category": "Furniture",
-      "defname": "Lighting_MURWallLightOrange",
-      "price": -10
-    },
-    {
-      "abr": "walllight(red)",
-      "category": "Furniture",
-      "defname": "Lighting_MURWallLightRed",
-      "price": -10
-    },
-    {
-      "abr": "walllight(rose)",
-      "category": "Furniture",
-      "defname": "Lighting_MURWallLightRose",
-      "price": -10
-    },
-    {
-      "abr": "walllight(springgreen)",
-      "category": "Furniture",
-      "defname": "Lighting_MURWallLightSpringGreen",
-      "price": -10
-    },
-    {
-      "abr": "walllight(violet)",
-      "category": "Furniture",
-      "defname": "Lighting_MURWallLightViolet",
-      "price": -10
-    },
-    {
-      "abr": "walllight(yellow)",
-      "category": "Furniture",
-      "defname": "Lighting_MURWallLightYellow",
-      "price": -10
-    },
-    {
-      "abr": "wallsunlight",
-      "category": "Furniture",
-      "defname": "Lighting_MURWallSunLight",
-      "price": -10
-    },
-    {
-      "abr": "warriorgeneticmaterial",
-      "category": "Manufactured",
-      "defname": "VFEI_WarriorGenome",
-      "price": 500
-    },
-    {
-      "abr": "weaponscabinet",
-      "category": "Furniture",
-      "defname": "LWM_WeaponsCabinet",
-      "price": -10
-    },
-    {
-      "abr": "weaponslocker",
-      "category": "Furniture",
-      "defname": "LWM_WeaponsLocker",
-      "price": -10
-    },
-    {
-      "abr": "wheelbarrow",
-      "category": "Furniture",
-      "defname": "JDSwheelbarrow",
-      "price": -10
-    },
-    {
-      "abr": "wildpawn",
-      "category": "Animal",
-      "defname": "AA_Wildpawn",
-      "price": -10
-    },
-    {
-      "abr": "wildpawnmeat",
-      "category": "Meat",
-      "defname": "Meat_AA_Wildpawn",
-      "price": -10
-    },
-    {
-      "abr": "wildpawnsporeclump(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "AA_WildpawnSpores",
-      "price": -10
-    },
-    {
-      "abr": "wildpod",
-      "category": "Animal",
-      "defname": "AA_Wildpod",
-      "price": -10
-    },
-    {
-      "abr": "wildpodmeat",
-      "category": "Meat",
-      "defname": "Meat_AA_Wildpod",
-      "price": -10
-    },
-    {
-      "abr": "wildpodsporeclump(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "AA_WildpodSpores",
-      "price": -10
-    },
-    {
-      "abr": "wolfhound",
-      "category": "Animal",
-      "defname": "VFEV_Wolfhound",
-      "price": -10
-    },
-    {
-      "abr": "wolfhoundmeat",
-      "category": "Meat",
-      "defname": "Meat_VFEV_Wolfhound",
-      "price": -10
-    },
-    {
-      "abr": "woolycow",
-      "category": "Animal",
-      "defname": "VFEV_WoolyCow",
-      "price": -10
-    },
-    {
-      "abr": "wovengraphene",
-      "category": "Manufactured",
-      "defname": "AvaliGraphene",
-      "price": -10
-    },
-    {
-      "abr": "달비단",
-      "category": "Textiles",
-      "defname": "Moonsilk",
-      "price": -10
-    },
-    {
-      "abr": "생체공학래비꼬리",
-      "category": "Bionic",
-      "defname": "RB_BionicTail",
-      "price": -10
-    },
-    {
-      "abr": "81mmmortarshell(psychicwarhead)",
-      "category": "Mortar shells",
-      "defname": "VFEI_Shell_PsychicWarhead",
-      "price": -10
+      "defname": "VFEI_Antenna",
+      "price": 2000
     },
     {
       "abr": "anti-armorrocketlauncher",
       "category": "Ranged weapons",
       "defname": "Gun_AntiArmor_Rocket",
-      "price": -10
+      "price": 1667
+    },
+    {
+      "abr": "apiary",
+      "category": "Misc",
+      "defname": "VFEV_Apiary",
+      "price": 318
+    },
+    {
+      "abr": "archotecheraser",
+      "category": "Artifacts",
+      "defname": "VFEI_Artifacts_ArchotechEraser",
+      "price": 3333
+    },
+    {
+      "abr": "archotechshieldbelt",
+      "category": "Artifacts",
+      "defname": "VFEI_Apparel_ArchotechShieldBelt",
+      "price": 2183
+    },
+    {
+      "abr": "archotechteleporter",
+      "category": "Artifacts",
+      "defname": "VFEI_Artifacts_ArchotechTeleporter",
+      "price": 1333
+    },
+    {
+      "abr": "bearheaddress",
+      "category": "Headgear",
+      "defname": "VFEV_BearHeaddress",
+      "price": 203
+    },
+    {
+      "abr": "beardedaxe",
+      "category": "Melee weapons",
+      "defname": "VFE_MeleeWeapon_BeardedAxe",
+      "price": 228
+    },
+    {
+      "abr": "bioelectricorganimplant",
+      "category": "Animal Body Part",
+      "defname": "AA_BioelectricOrganImplant",
+      "price": 1333
+    },
+    {
+      "abr": "bio-engineeringincubator",
+      "category": "Furniture",
+      "defname": "VFEI_BioengineeringIncubator",
+      "price": 1067
+    },
+    {
+      "abr": "bionicbladder",
+      "category": "Bionic",
+      "defname": "BionicBladder",
+      "price": 1308
+    },
+    {
+      "abr": "blackhivegeneticmaterial",
+      "category": "Manufactured",
+      "defname": "VFEI_BlackHiveGenome",
+      "price": 833
     },
     {
       "abr": "chargelance",
       "category": "Ranged weapons",
       "defname": "Gun_ChargeLance",
-      "price": -10
+      "price": 2200
+    },
+    {
+      "abr": "chitin",
+      "category": "Raw resources",
+      "defname": "VFEI_Chitin",
+      "price": 10
+    },
+    {
+      "abr": "compoundeye",
+      "category": "Insect",
+      "defname": "VFEI_CompoundEye",
+      "price": 2000
+    },
+    {
+      "abr": "cowwool",
+      "category": "Textiles",
+      "defname": "VFEV_WoolCow",
+      "price": 4
+    },
+    {
+      "abr": "crescendoanole",
+      "category": "Animal",
+      "defname": "AA_CrescendoAnole",
+      "price": 750
+    },
+    {
+      "abr": "crescendoanoleegg(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "AA_EggCrescendoAnoleFertilized",
+      "price": 15
+    },
+    {
+      "abr": "cryptoarmor",
+      "category": "Armor",
+      "defname": "VFEV_CryptoArmor",
+      "price": 3333
+    },
+    {
+      "abr": "cryptocrossbow",
+      "category": "Crypto weapons",
+      "defname": "VFEV_CryptoLightCrossbow",
+      "price": 1433
+    },
+    {
+      "abr": "cryptohatchet",
+      "category": "Crypto weapons",
+      "defname": "VFEV_CryptoLightAxe",
+      "price": 2133
+    },
+    {
+      "abr": "cryptoheavyarmor",
+      "category": "Armor",
+      "defname": "VFEV_CryptoHeavyArmor",
+      "price": 4000
+    },
+    {
+      "abr": "cryptoheavycrossbow",
+      "category": "Crypto weapons",
+      "defname": "VFEV_CryptoHeavyCrossbow",
+      "price": 2367
+    },
+    {
+      "abr": "cryptohelmet",
+      "category": "Headgear",
+      "defname": "VFEV_Apparel_CryptoLightHelmet",
+      "price": 2467
+    },
+    {
+      "abr": "cryptopistol",
+      "category": "Crypto weapons",
+      "defname": "VFEV_CryptoPistol",
+      "price": 1450
+    },
+    {
+      "abr": "cryptorifle",
+      "category": "Crypto weapons",
+      "defname": "VFEV_CryptoRifle",
+      "price": 2100
+    },
+    {
+      "abr": "cryptoshield",
+      "category": "Shields",
+      "defname": "VFEV_Shield_Crypto",
+      "price": 2167
+    },
+    {
+      "abr": "crystallinecaracal",
+      "category": "Animal",
+      "defname": "AA_CrystallineCaracal",
+      "price": 1667
+    },
+    {
+      "abr": "daneaxe",
+      "category": "Melee weapons",
+      "defname": "VFE_MeleeWeapon_DaneAxe",
+      "price": 450
+    },
+    {
+      "abr": "doublefurbed",
+      "category": "Furniture",
+      "defname": "VFEV_DoubleFurBed",
+      "price": 350
+    },
+    {
+      "abr": "dronegeneticmaterial",
+      "category": "Manufactured",
+      "defname": "VFEI_DroneGenome",
+      "price": 167
     },
     {
       "abr": "emplauncher",
       "category": "Ranged weapons",
       "defname": "Gun_EmpLauncher",
-      "price": -10
+      "price": 733
+    },
+    {
+      "abr": "erin",
+      "category": "Animal",
+      "defname": "AA_Erin",
+      "price": 917
+    },
+    {
+      "abr": "facepaintingtable",
+      "category": "Misc",
+      "defname": "VFE_TableFacePaints",
+      "price": 132
+    },
+    {
+      "abr": "fenrir",
+      "category": "Animal",
+      "defname": "VFEV_Fenrir",
+      "price": 10000
+    },
+    {
+      "abr": "fenrirmeat",
+      "category": "Meat",
+      "defname": "Meat_VFEV_Fenrir",
+      "price": 3
+    },
+    {
+      "abr": "fenrirskin",
+      "category": "Leathers",
+      "defname": "VFEV_Leather_Fenrir",
+      "price": 27
     },
     {
       "abr": "flashgrenades",
       "category": "Grenades",
       "defname": "VWE_FlashGrenade",
-      "price": -10
+      "price": 658
+    },
+    {
+      "abr": "furbed",
+      "category": "Furniture",
+      "defname": "VFEV_FurBed",
+      "price": 171
+    },
+    {
+      "abr": "furryalienleather",
+      "category": "Leathers",
+      "defname": "O21_AlienLeather_Furry",
+      "price": 8
+    },
+    {
+      "abr": "gigalocust",
+      "category": "Animal",
+      "defname": "VFEI_Insectoid_Gigalocust",
+      "price": 1333
+    },
+    {
+      "abr": "golddragoniancrown[f]",
+      "category": "Headgear",
+      "defname": "SND_F_Gold_Crown",
+      "price": 1675
+    },
+    {
+      "abr": "golddragoniancrown[m]",
+      "category": "Headgear",
+      "defname": "SND_M_Gold_Crown",
+      "price": 1675
+    },
+    {
+      "abr": "grey-coatedmouflon",
+      "category": "Animal",
+      "defname": "AA_GreyCoatedMouflon",
+      "price": 1083
+    },
+    {
+      "abr": "grey-coatedmouflonwool",
+      "category": "Textiles",
+      "defname": "AA_GreyCoatedMouflonWool",
+      "price": 4
+    },
+    {
+      "abr": "guardianarmor",
+      "category": "Armor",
+      "defname": "VFEV_Apparel_GuardianArmor",
+      "price": 958
+    },
+    {
+      "abr": "guardianhelmet",
+      "category": "Headgear",
+      "defname": "VFEV_Apparel_GuardianHelmet",
+      "price": 305
+    },
+    {
+      "abr": "harpoon",
+      "category": "Ranged weapons",
+      "defname": "VFE_Harpoon",
+      "price": 417
+    },
+    {
+      "abr": "heavycryptoaxe",
+      "category": "Crypto weapons",
+      "defname": "VFEV_CryptoHeavyAxe",
+      "price": 2417
+    },
+    {
+      "abr": "heavycryptohelmet",
+      "category": "Headgear",
+      "defname": "VFEV_Apparel_CryptoHeavyHelmet",
+      "price": 3133
+    },
+    {
+      "abr": "hnefatafltable",
+      "category": "Furniture",
+      "defname": "VFEV_Hnefatafl",
+      "price": 281
+    },
+    {
+      "abr": "hugeanimapearl",
+      "category": "Manufactured",
+      "defname": "AA_HugeAnimaPearl",
+      "price": 83
+    },
+    {
+      "abr": "hygieneenhancer",
+      "category": "Bionic",
+      "defname": "HygieneEnhancer",
+      "price": 1308
+    },
+    {
+      "abr": "hyperacidicstomachimplant",
+      "category": "Animal Body Part",
+      "defname": "AA_HyperAcidicStomachImplant",
+      "price": 1333
     },
     {
       "abr": "industrialammo",
@@ -12136,19 +11560,241 @@
       "abr": "infernocannon",
       "category": "Ranged weapons",
       "defname": "Gun_InfernoCannon",
-      "price": -10
+      "price": 2333
     },
     {
       "abr": "infernocannon",
       "category": "Ranged weapons",
       "defname": "Gun_InfernoCannonTurret",
-      "price": -10
+      "price": 2333
+    },
+    {
+      "abr": "insectcheese",
+      "category": "Meals",
+      "defname": "VCE_InsectCheese",
+      "price": 17
+    },
+    {
+      "abr": "insectmilk",
+      "category": "Animal products",
+      "defname": "VFEI_InsectMilk",
+      "price": 5
+    },
+    {
+      "abr": "insectoidarm",
+      "category": "Insect",
+      "defname": "VFEI_InsectoidArm",
+      "price": 2000
+    },
+    {
+      "abr": "insectoidegg(unfert.)",
+      "category": "Eggs (unfert.)",
+      "defname": "VFEI_EggInsectoidUnfertilized",
+      "price": 5
+    },
+    {
+      "abr": "insectoidleg",
+      "category": "Insect",
+      "defname": "VFEI_InsectoidLeg",
+      "price": 2000
+    },
+    {
+      "abr": "insectoidqueen",
+      "category": "Animal",
+      "defname": "VFEI_Insectoid_Queen",
+      "price": 2500
+    },
+    {
+      "abr": "jarlcape",
+      "category": "Apparel",
+      "defname": "VFEV_Apparel_JarlCape",
+      "price": 583
+    },
+    {
+      "abr": "jarlcrown",
+      "category": "Headgear",
+      "defname": "VFEV_JarlCrown",
+      "price": 2342
+    },
+    {
+      "abr": "jellysac",
+      "category": "Insect",
+      "defname": "VFEI_JellySac",
+      "price": 2000
+    },
+    {
+      "abr": "larvae",
+      "category": "Animal",
+      "defname": "VFEI_Insectoid_Larvae",
+      "price": 1667
+    },
+    {
+      "abr": "leatherarmor",
+      "category": "Armor",
+      "defname": "VFEV_LeatherArmor",
+      "price": 483
+    },
+    {
+      "abr": "leatherhelmet",
+      "category": "Headgear",
+      "defname": "VFEV_Apparel_LeatherHelmet",
+      "price": 153
+    },
+    {
+      "abr": "lightfocusinglensimplant",
+      "category": "Animal Body Part",
+      "defname": "AA_LightFocusingLensImplant",
+      "price": 1333
+    },
+    {
+      "abr": "lothurr",
+      "category": "Animal",
+      "defname": "VFEV_Lothurr",
+      "price": 5833
+    },
+    {
+      "abr": "lothurrantler",
+      "category": "Items",
+      "defname": "VFEV_LothurrAntler",
+      "price": 2000
+    },
+    {
+      "abr": "lothurrleather",
+      "category": "Leathers",
+      "defname": "VFEV_Leather_Lothurr",
+      "price": 22
+    },
+    {
+      "abr": "lothurrmeat",
+      "category": "Meat",
+      "defname": "Meat_VFEV_Lothurr",
+      "price": 3
+    },
+    {
+      "abr": "mandibles",
+      "category": "Insect",
+      "defname": "VFEI_Mandibles",
+      "price": 2000
+    },
+    {
+      "abr": "mead",
+      "category": "Drugs",
+      "defname": "VFEV_Mead",
+      "price": 25
+    },
+    {
+      "abr": "meadfermentingbarrel",
+      "category": "Production",
+      "defname": "VFEV_MeadFermentingBarrel",
+      "price": 94
+    },
+    {
+      "abr": "megapede",
+      "category": "Animal",
+      "defname": "VFEI_Insectoid_Megapede",
+      "price": 1250
     },
     {
       "abr": "minigun",
       "category": "Ranged weapons",
       "defname": "Gun_Minigun",
-      "price": -10
+      "price": 1950
+    },
+    {
+      "abr": "mjollnirstriketargeter",
+      "category": "Utility",
+      "defname": "VFEV_OrbitalTargeterMjollnir",
+      "price": 2000
+    },
+    {
+      "abr": "mooseheaddress",
+      "category": "Headgear",
+      "defname": "VFEV_MooseHeaddress",
+      "price": 203
+    },
+    {
+      "abr": "njorun",
+      "category": "Animal",
+      "defname": "VFEV_Njorun",
+      "price": 11667
+    },
+    {
+      "abr": "njorunmeat",
+      "category": "Meat",
+      "defname": "Meat_VFEV_Njorun",
+      "price": 3
+    },
+    {
+      "abr": "njorunfur",
+      "category": "Leathers",
+      "defname": "VFEV_Leather_Njorun",
+      "price": 17
+    },
+    {
+      "abr": "noblefurcoat",
+      "category": "Apparel",
+      "defname": "VFEV_Apparel_RoyalFurCoat",
+      "price": 433
+    },
+    {
+      "abr": "pheromonesecretor",
+      "category": "Insect",
+      "defname": "VFEI_PheromoneSecretor",
+      "price": 2000
+    },
+    {
+      "abr": "plasmascattergun",
+      "category": "Ranged weapons",
+      "defname": "VFE_Gun_PlasmaScattergun",
+      "price": 3833
+    },
+    {
+      "abr": "plasmabeamrifle",
+      "category": "Ranged weapons",
+      "defname": "VFE_Gun_PlasmabeamRifle",
+      "price": 4167
+    },
+    {
+      "abr": "plasmacutter",
+      "category": "Ranged weapons",
+      "defname": "VFE_Gun_Plasmacutter",
+      "price": 3333
+    },
+    {
+      "abr": "plasmapiercer",
+      "category": "Ranged weapons",
+      "defname": "VFE_Gun_Plasmapiercer",
+      "price": 3833
+    },
+    {
+      "abr": "plasmasaw",
+      "category": "Melee weapons",
+      "defname": "VFE_Plasmasaw",
+      "price": 3333
+    },
+    {
+      "abr": "plasteeldragoniancrown[f]",
+      "category": "Headgear",
+      "defname": "SND_F_Plasteel_Crown",
+      "price": 1508
+    },
+    {
+      "abr": "plasteeldragoniancrown[m]",
+      "category": "Headgear",
+      "defname": "SND_M_Plasteel_Crown",
+      "price": 1508
+    },
+    {
+      "abr": "pneumaticclaw",
+      "category": "Insect",
+      "defname": "VFEI_PneumaticClaw",
+      "price": 2000
+    },
+    {
+      "abr": "predatorstomach",
+      "category": "Insect",
+      "defname": "VFEI_PredatorStomach",
+      "price": 2000
     },
     {
       "abr": "primitiveexplosiveammo",
@@ -12163,16 +11809,136 @@
       "price": 1
     },
     {
+      "abr": "psychicanimaltamer",
+      "category": "Artifacts",
+      "defname": "VFEI_Artifacts_PsychicAnimalTamer",
+      "price": 2500
+    },
+    {
+      "abr": "psychiccornucopia",
+      "category": "Artifacts",
+      "defname": "VFEV_PlantGrowerArtifact",
+      "price": 1167
+    },
+    {
+      "abr": "psychicpacifier",
+      "category": "Artifacts",
+      "defname": "VFEI_Artifacts_PsychicPacifier",
+      "price": 2500
+    },
+    {
+      "abr": "psychicwarhead",
+      "category": "Mortar shells",
+      "defname": "VFEI_Shell_PsychicWarhead",
+      "price": 1667
+    },
+    {
+      "abr": "ravagerarmor",
+      "category": "Armor",
+      "defname": "VFEV_Apparel_RavagerArmor",
+      "price": 825
+    },
+    {
+      "abr": "ravagerhelmet",
+      "category": "Headgear",
+      "defname": "VFEV_Apparel_RavagerHelmet",
+      "price": 153
+    },
+    {
+      "abr": "rawhoney",
+      "category": "Animal products",
+      "defname": "VFEV_Honey",
+      "price": 7
+    },
+    {
+      "abr": "riotarmor",
+      "category": "Armor",
+      "defname": "VFE_Apparel_RiotArmor",
+      "price": 667
+    },
+    {
+      "abr": "riothelmet",
+      "category": "Headgear",
+      "defname": "VFE_Apparel_RiotHelmet",
+      "price": 315
+    },
+    {
+      "abr": "riotshield",
+      "category": "Shields",
+      "defname": "VFEI_Shield_Riot",
+      "price": 274
+    },
+    {
+      "abr": "roundshield",
+      "category": "Shields",
+      "defname": "VFEV_Shield_Round",
+      "price": 249
+    },
+    {
+      "abr": "royalgeneticmaterial",
+      "category": "Manufactured",
+      "defname": "VFEI_RoyalGenome",
+      "price": 333
+    },
+    {
+      "abr": "royalinsectjelly",
+      "category": "Animal products",
+      "defname": "VFEI_RoyalInsectJelly",
+      "price": 17
+    },
+    {
+      "abr": "royalmegaspider",
+      "category": "Animal",
+      "defname": "VFEI_Insectoid_RoyalMegaspider",
+      "price": 1167
+    },
+    {
+      "abr": "runestone",
+      "category": "Furniture",
+      "defname": "VFEV_RuneStone",
+      "price": 625
+    },
+    {
+      "abr": "scaledalienleather",
+      "category": "Leathers",
+      "defname": "O21_AlienLeather_Scaled",
+      "price": 8
+    },
+    {
+      "abr": "seax",
+      "category": "Melee weapons",
+      "defname": "VFE_MeleeWeapon_Seax",
+      "price": 239
+    },
+    {
+      "abr": "silverdragoniancrown[f]",
+      "category": "Headgear",
+      "defname": "SND_F_Silver_Crown",
+      "price": 173
+    },
+    {
+      "abr": "silverdragoniancrown[m]",
+      "category": "Headgear",
+      "defname": "SND_M_Silver_Crown",
+      "price": 173
+    },
+    {
       "abr": "smokegrenades",
       "category": "Grenades",
       "defname": "VWE_SmokeGrenade",
-      "price": -10
+      "price": 215
     },
     {
       "abr": "smokelauncher",
       "category": "Ranged weapons",
       "defname": "Gun_SmokeLauncher",
       "price": 633
+    },
+    {
+      "abr": "sonicinfestationrepeller",
+      "category": "Furniture",
+      "defname": "VFEI_SonicInfestationRepeller",
+      "price": 3217
     },
     {
       "abr": "spacerammo",
@@ -12193,40 +11959,10 @@
       "price": 12
     },
     {
-      "abr": "golddragoniancrown[f]",
-      "category": "Headgear",
-      "defname": "SND_F_Gold_Crown",
-      "price": 1675
-    },
-    {
-      "abr": "golddragoniancrown[m]",
-      "category": "Headgear",
-      "defname": "SND_M_Gold_Crown",
-      "price": 1675
-    },
-    {
-      "abr": "plasteeldragoniancrown[f]",
-      "category": "Headgear",
-      "defname": "SND_F_Plasteel_Crown",
-      "price": 1508
-    },
-    {
-      "abr": "plasteeldragoniancrown[m]",
-      "category": "Headgear",
-      "defname": "SND_M_Plasteel_Crown",
-      "price": 1508
-    },
-    {
-      "abr": "silverdragoniancrown[f]",
-      "category": "Headgear",
-      "defname": "SND_F_Silver_Crown",
-      "price": 173
-    },
-    {
-      "abr": "silverdragoniancrown[m]",
-      "category": "Headgear",
-      "defname": "SND_M_Silver_Crown",
-      "price": 173
+      "abr": "spidersilk",
+      "category": "Textiles",
+      "defname": "VFEI_Spidersilk",
+      "price": 17
     },
     {
       "abr": "steeldragoniancrown[f]",
@@ -12241,88 +11977,376 @@
       "price": 323
     },
     {
-      "abr": "animacolossus",
-      "category": "Animal",
-      "defname": "AA_AnimaColossus",
-      "price": -10
+      "abr": "sweetroll",
+      "category": "Foods",
+      "defname": "VFEV_Sweetroll",
+      "price": 11
     },
     {
-      "abr": "bioelectricorganimplant",
-      "category": "Animal Body Part",
-      "defname": "AA_BioelectricOrganImplant",
-      "price": -10
+      "abr": "synapticcerebellum",
+      "category": "Insect",
+      "defname": "VFEI_SynapticCerebellum",
+      "price": 2000
     },
     {
-      "abr": "crescendoanole",
-      "category": "Animal",
-      "defname": "AA_CrescendoAnole",
-      "price": -10
+      "abr": "thickalienleather",
+      "category": "Leathers",
+      "defname": "O21_AlienLeather_Thick",
+      "price": 8
     },
     {
-      "abr": "crescendoanoleegg(fert.)",
-      "category": "Eggs (fert.)",
-      "defname": "AA_EggCrescendoAnoleFertilized",
-      "price": -10
+      "abr": "throwabletorchbelt",
+      "category": "Utility",
+      "defname": "VFEV_Apparel_TorchBelt",
+      "price": 43
     },
     {
-      "abr": "crystallinecaracal",
-      "category": "Animal",
-      "defname": "AA_CrystallineCaracal",
-      "price": -10
-    },
-    {
-      "abr": "erin",
-      "category": "Animal",
-      "defname": "AA_Erin",
-      "price": -10
-    },
-    {
-      "abr": "grey-coatedmouflon",
-      "category": "Animal",
-      "defname": "AA_GreyCoatedMouflon",
-      "price": -10
-    },
-    {
-      "abr": "grey-coatedmouflonwool",
-      "category": "Textiles",
-      "defname": "AA_GreyCoatedMouflonWool",
-      "price": 4
-    },
-    {
-      "abr": "hugeanimapearl",
-      "category": "Manufactured",
-      "defname": "AA_HugeAnimaPearl",
-      "price": -10
-    },
-    {
-      "abr": "hyperacidicstomachimplant",
-      "category": "Animal Body Part",
-      "defname": "AA_HyperAcidicStomachImplant",
-      "price": -10
-    },
-    {
-      "abr": "lightfocusinglensimplant",
-      "category": "Animal Body Part",
-      "defname": "AA_LightFocusingLensImplant",
-      "price": -10
+      "abr": "throwingaxe",
+      "category": "Ranged weapons",
+      "defname": "VFE_ThrowingAxe",
+      "price": 260
     },
     {
       "abr": "thunderbeast",
       "category": "Animal",
       "defname": "AA_Thunderbeast",
-      "price": -10
+      "price": 1250
     },
     {
-      "abr": "bionicbladder",
-      "category": "Bionic",
-      "defname": "BionicBladder",
-      "price": -10
+      "abr": "trainingdummy",
+      "category": "Recreation",
+      "defname": "VFEV_TrainingDummy",
+      "price": 80
     },
     {
-      "abr": "hygieneenhancer",
+      "abr": "vat-grownboomtick",
+      "category": "Animal",
+      "defname": "VFEI_VatgrownBoomtick",
+      "price": 167
+    },
+    {
+      "abr": "vat-growncuterpillar",
+      "category": "Animal",
+      "defname": "VFEI_VatGrownCuterpillar",
+      "price": 750
+    },
+    {
+      "abr": "vat-growngigalocust",
+      "category": "Animal",
+      "defname": "VFEI_VatGrownGigalocust",
+      "price": 1083
+    },
+    {
+      "abr": "vat-growngigascorpion",
+      "category": "Animal",
+      "defname": "VFEI_VatGrownGigascorpion",
+      "price": 833
+    },
+    {
+      "abr": "vat-growngigawig",
+      "category": "Animal",
+      "defname": "VFEI_VatGrownGigawig",
+      "price": 750
+    },
+    {
+      "abr": "vat-grownmegacricket",
+      "category": "Animal",
+      "defname": "VFEI_VatGrownMegacricket",
+      "price": 292
+    },
+    {
+      "abr": "vat-grownmegapede",
+      "category": "Animal",
+      "defname": "VFEI_VatGrownMegapede",
+      "price": 1250
+    },
+    {
+      "abr": "vat-grownmegascarab",
+      "category": "Animal",
+      "defname": "VFEI_VatGrownMegascarab",
+      "price": 167
+    },
+    {
+      "abr": "vat-grownmegaspider",
+      "category": "Animal",
+      "defname": "VFEI_VatgrownMegaspider",
+      "price": 833
+    },
+    {
+      "abr": "vat-grownmilkbeetle",
+      "category": "Animal",
+      "defname": "VFEI_VatGrownMilkbeetle",
+      "price": 583
+    },
+    {
+      "abr": "vat-grownmonstrosity",
+      "category": "Animal",
+      "defname": "VFEI_VatGrownMonstrosity",
+      "price": 1250
+    },
+    {
+      "abr": "vat-grownprincess",
+      "category": "Animal",
+      "defname": "VFEI_VatGrownPrincess",
+      "price": 1500
+    },
+    {
+      "abr": "vat-grownroyallarva",
+      "category": "Animal",
+      "defname": "VFEI_VatgrownRoyalLarva",
+      "price": 83
+    },
+    {
+      "abr": "vat-grownroyalmaggot",
+      "category": "Animal",
+      "defname": "VFEI_VatGrownRoyalMaggot",
+      "price": 333
+    },
+    {
+      "abr": "vat-grownspelopede",
+      "category": "Animal",
+      "defname": "VFEI_VatGrownSpelopede",
+      "price": 333
+    },
+    {
+      "abr": "vat-grownspiderweaver",
+      "category": "Animal",
+      "defname": "VFEI_VatGrownSpiderweaver",
+      "price": 333
+    },
+    {
+      "abr": "vat-growntitanbeetle",
+      "category": "Animal",
+      "defname": "VFEI_VatGrownTitanbeetle",
+      "price": 917
+    },
+    {
+      "abr": "vat-grownwargling",
+      "category": "Animal",
+      "defname": "VFEI_VatGrownWargling",
+      "price": 833
+    },
+    {
+      "abr": "vat-grownworkerant",
+      "category": "Animal",
+      "defname": "VFEI_VatGrownWorkerAnt",
+      "price": 333
+    },
+    {
+      "abr": "vendingmachinea",
+      "category": "Furniture",
+      "defname": "JDSVending_Machine",
+      "price": 270
+    },
+    {
+      "abr": "vendingmachineb",
+      "category": "Furniture",
+      "defname": "JDSVending_Machine_two",
+      "price": 170
+    },
+    {
+      "abr": "venomgland",
+      "category": "Insect",
+      "defname": "VFEI_VenomGland",
+      "price": 2000
+    },
+    {
+      "abr": "venomousspitterimplant",
+      "category": "Animal Body Part",
+      "defname": "AA_VenomousSpitterImplant",
+      "price": 1333
+    },
+    {
+      "abr": "ventricularsleeve",
+      "category": "Insect",
+      "defname": "VFEI_VentricularSleeve",
+      "price": 2000
+    },
+    {
+      "abr": "vitalscentre",
+      "category": "Misc",
+      "defname": "Facility_VitalsCentre",
+      "price": 1125
+    },
+    {
+      "abr": "walllight",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLight",
+      "price": 16
+    },
+    {
+      "abr": "walllight(azure)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightAzure",
+      "price": 16
+    },
+    {
+      "abr": "walllight(blue)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightBlue",
+      "price": 16
+    },
+    {
+      "abr": "walllight(chartreuse)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightChartreuse",
+      "price": 16
+    },
+    {
+      "abr": "walllight(cyan)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightCyan",
+      "price": 16
+    },
+    {
+      "abr": "walllight(green)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightGreen",
+      "price": 16
+    },
+    {
+      "abr": "walllight(magenta)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightMagenta",
+      "price": 16
+    },
+    {
+      "abr": "walllight(orange)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightOrange",
+      "price": 16
+    },
+    {
+      "abr": "walllight(red)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightRed",
+      "price": 16
+    },
+    {
+      "abr": "walllight(rose)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightRose",
+      "price": 16
+    },
+    {
+      "abr": "walllight(springgreen)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightSpringGreen",
+      "price": 16
+    },
+    {
+      "abr": "walllight(violet)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightViolet",
+      "price": 16
+    },
+    {
+      "abr": "walllight(yellow)",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallLightYellow",
+      "price": 16
+    },
+    {
+      "abr": "wallsunlight",
+      "category": "Furniture",
+      "defname": "Lighting_MURWallSunLight",
+      "price": 16
+    },
+    {
+      "abr": "warriorgeneticmaterial",
+      "category": "Manufactured",
+      "defname": "VFEI_WarriorGenome",
+      "price": 250
+    },
+    {
+      "abr": "weaponscabinet",
+      "category": "Furniture",
+      "defname": "LWM_WeaponsCabinet",
+      "price": 254
+    },
+    {
+      "abr": "weaponslocker",
+      "category": "Furniture",
+      "defname": "LWM_WeaponsLocker",
+      "price": 237
+    },
+    {
+      "abr": "wheelbarrow",
+      "category": "Furniture",
+      "defname": "JDSwheelbarrow",
+      "price": 54
+    },
+    {
+      "abr": "wildpawn",
+      "category": "Animal",
+      "defname": "AA_Wildpawn",
+      "price": 333
+    },
+    {
+      "abr": "wildpawnmeat",
+      "category": "Meat",
+      "defname": "Meat_AA_Wildpawn",
+      "price": 3
+    },
+    {
+      "abr": "wildpawnsporeclump(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "AA_WildpawnSpores",
+      "price": 15
+    },
+    {
+      "abr": "wildpod",
+      "category": "Animal",
+      "defname": "AA_Wildpod",
+      "price": 667
+    },
+    {
+      "abr": "wildpodmeat",
+      "category": "Meat",
+      "defname": "Meat_AA_Wildpod",
+      "price": 3
+    },
+    {
+      "abr": "wildpodsporeclump(fert.)",
+      "category": "Eggs (fert.)",
+      "defname": "AA_WildpodSpores",
+      "price": 15
+    },
+    {
+      "abr": "wolfhound",
+      "category": "Animal",
+      "defname": "VFEV_Wolfhound",
+      "price": 583
+    },
+    {
+      "abr": "wolfhoundmeat",
+      "category": "Meat",
+      "defname": "Meat_VFEV_Wolfhound",
+      "price": 3
+    },
+    {
+      "abr": "woolycow",
+      "category": "Animal",
+      "defname": "VFEV_WoolyCow",
+      "price": 767
+    },
+    {
+      "abr": "wovengraphene",
+      "category": "Manufactured",
+      "defname": "AvaliGraphene",
+      "price": 5
+    },
+    {
+      "abr": "달비단",
+      "category": "Textiles",
+      "defname": "Moonsilk",
+      "price": 20
+    },
+    {
+      "abr": "생체공학래비꼬리",
       "category": "Bionic",
-      "defname": "HygieneEnhancer",
-      "price": -10
+      "defname": "RB_BionicTail",
+      "price": 1717
     },
     {
       "abr": "commoninfuser",
@@ -12361,5 +12385,5 @@
       "price": 642
     }
   ],
-  "total": 2060
+  "total": 2064
 }
