@@ -6,6 +6,12 @@
     "version": "1.0.4.0"
   },
   {
+    "author": "CaptainPootis",
+    "name": "RuntimeGC",
+    "steamId": "2228430510",
+    "version": "20.0.15.1"
+  },
+  {
     "author": "Fluffy",
     "name": "Mod Manager",
     "steamId": "1507748539",
@@ -139,7 +145,7 @@
     "author": "Andreas Pardeike",
     "name": "Achtung!",
     "steamId": "730936602",
-    "version": "3.1.4.0"
+    "version": "3.1.5.0"
   },
   {
     "author": "spoonshortage",
@@ -211,7 +217,7 @@
     "author": "Andreas Pardeike",
     "name": "Camera+",
     "steamId": "867467808",
-    "version": "2.1.1.0"
+    "version": "2.1.2.0"
   },
   {
     "author": "Smash Phil | Dr_Zhivago",
@@ -431,7 +437,7 @@
     "author": "Andreas Pardeike",
     "name": "Range Finder",
     "steamId": "1332119637",
-    "version": "2.0.1.0"
+    "version": "2.1.0.0"
   },
   {
     "author": "Crlsniper",
@@ -489,17 +495,7 @@
     "author": "Lanilor",
     "name": "Simply More Bridges (Continued)",
     "steamId": "2012484790",
-    "version": "1.0.22.0"
-  },
-  {
-    "author": "Sarg",
-    "name": "Smart Speed"
-  },
-  {
-    "author": "Uuugggg",
-    "name": "Smart Medicine",
-    "steamId": "1309994319",
-    "version": "1.0.0.0"
+    "version": "1.0.26.0"
   },
   {
     "author": "Weilbyte",
@@ -524,10 +520,6 @@
   {
     "author": "Naharri, Tarojun",
     "name": "Thrumboian Race"
-  },
-  {
-    "author": "balistafreak",
-    "name": "Standalone Hot Spring"
   },
   {
     "author": "Oskar Potocki, Trunken",
@@ -743,7 +735,7 @@
     "author": "Dubwise",
     "name": "Dubs Bad Hygiene",
     "steamId": "836308268",
-    "version": "2.9.2024"
+    "version": "2.9.2035"
   },
   {
     "author": "UnlimitedHugs",
@@ -799,12 +791,18 @@
     "author": "SirRandoo",
     "name": "ToolkitResearch",
     "steamId": "2312827542",
-    "version": "1.0.1.6"
+    "version": "1.0.1.8"
   },
   {
     "author": "Epicguru (James B)",
     "name": "What's That Mod",
     "steamId": "2258431182",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "Major Hoff",
+    "name": "RimThreaded [1.2]",
+    "steamId": "2222907981",
+    "version": "1.3.2.0"
   }
 ]
