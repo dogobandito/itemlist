@@ -42,12 +42,14 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "Roolo",
-    "name": "Giddy-up! Core"
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Core",
+    "steamId": "2038000893",
+    "version": "2.0.0-beta"
   },
   {
-    "author": "Erisss, FacePlus, Ksisa",
-    "name": "Avali Continued [1.1]"
+    "author": "Roolo",
+    "name": "Giddy-up! Core"
   },
   {
     "author": "Onyxae",
@@ -112,18 +114,6 @@
     "name": "EdB Prepare Carefully"
   },
   {
-    "author": "notfood",
-    "name": "FrameRateControl",
-    "steamId": "1591142767",
-    "version": "0.0.0.0"
-  },
-  {
-    "author": "Katavrik",
-    "name": "Crash Landing",
-    "steamId": "730384702",
-    "version": "0.0.0.0"
-  },
-  {
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
@@ -153,8 +143,12 @@
   },
   {
     "author": "Odeum",
-    "name": "World Map Beautification Project",
-    "steamId": "2314407956",
+    "name": "World Map Beautification Project"
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Islands",
+    "steamId": "2038001322",
     "version": "1.2.0.0"
   },
   {
@@ -166,6 +160,10 @@
   {
     "author": "Carolusclen",
     "name": "World Map Beautification Project - for Alpha Biomes"
+  },
+  {
+    "author": "Kerevan",
+    "name": "Hisa Faction"
   },
   {
     "author": "Ravvy",
@@ -202,6 +200,10 @@
     "name": "Billy's Improved Caravan Formation (Continued)",
     "steamId": "2068456092",
     "version": "1.0.1.0"
+  },
+  {
+    "author": "The Biomes Mod Team",
+    "name": "Biomes! Islands: Extra Islands"
   },
   {
     "author": "Fluffy",
@@ -558,40 +560,18 @@
     "name": "Vanilla Books Expanded"
   },
   {
-    "author": "Oskar Potocki, Kikohi, Sarg Bjornson",
-    "name": "Vanilla Factions Expanded - Insectoids",
-    "steamId": "2149755445",
-    "version": "1.2.0.0"
-  },
-  {
-    "author": "Vanilla Expanded team",
-    "name": "Vanilla Factions Expanded - Vikings"
-  },
-  {
-    "author": "OskarPotocki, Atlas, Kikohi",
-    "name": "Vanilla Furniture Expanded"
-  },
-  {
-    "author": "Oskar Potocki, dninemfive, Kikohi",
-    "name": "Vanilla Furniture Expanded - Farming"
-  },
-  {
     "author": "OskarPotocki, Atlas, Kikohi",
     "name": "Vanilla Furniture Expanded - Medical Module"
-  },
-  {
-    "author": "Oskar Potocki, Trunken",
-    "name": "Vanilla Furniture Expanded - Production"
-  },
-  {
-    "author": "Oskar Potocki",
-    "name": "Vanilla Furniture Expanded - Props and Decor"
   },
   {
     "author": "Oskar Potocki, Trunken, XeoNovaDan",
     "name": "Vanilla Furniture Expanded - Security",
     "steamId": "1845154007",
     "version": "1.1.1.0"
+  },
+  {
+    "author": "Oskar Potocki, Trunken",
+    "name": "Vanilla Furniture Expanded - Production"
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson",
@@ -712,10 +692,6 @@
     "version": "1.0.0.0"
   },
   {
-    "author": "OskarPotocki, Atlas, Kikohi",
-    "name": "Vanilla Furniture Expanded - Spacer Module"
-  },
-  {
     "author": "Kayedon",
     "name": "[KYD] More Pawns Get Prosthetics!"
   },
@@ -798,11 +774,5 @@
     "name": "What's That Mod",
     "steamId": "2258431182",
     "version": "1.0.0.0"
-  },
-  {
-    "author": "Major Hoff",
-    "name": "RimThreaded [1.2]",
-    "steamId": "2222907981",
-    "version": "1.3.2.0"
   }
 ]
